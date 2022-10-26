@@ -46,17 +46,13 @@ http://live2.dootvde.com/live/50018_gmm.stream.smil/playist.m3u8
 
 #EXTINF:0,Thairath TV
 #EXTGRP:DigitalTV
-https://cdn6.goprimetime.info/feed/202205171329/chthairath/index.m3u8
+https://cdn6.goprimetime.info/feed/202205171929/chthairath/index.m3u8
 
 #EXTINF:0,Thai PBS
 #EXTGRP:DigitalTV
 http://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
 
 #EXTINF:0,Workpoint
-#EXTGRP:DigitalTV
-http://61.19.242.134/feed/202205171329/chworkpoint/index.m3u8
-
-#EXTINF:0,Workpoint1
 #EXTGRP:DigitalTV
 http://live2.dootvde.com/live/50016_workpoint_tv.stream.smil/playist.m3u8
 
@@ -76,6 +72,10 @@ http://live2.dootvde.com/live/50005_nbt.stream.smil/playist.m3u8
 #EXTGRP:DigitalTV
 https://freelive.inwstream.com:1936/freelive-edge/tnn24/playlist.m3u8
 
+#EXTINF:0,ALTV 4
+#EXTGRP:DigitalTV
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
+
 #EXTINF:0,ISTV
 #EXTGRP:DigitalTV
 https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8
@@ -87,6 +87,14 @@ http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
 #EXTINF:0,GOLIVE
 #EXTGRP:DigitalTV
 https://live1.thaitvstream.com/play/gochannel/index.m3u8
+
+#EXTINF:0,T SPORT 7
+#EXTGRP:DigitalTV
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r2/tsports_480p/playlist.m3u8
+
+#EXTINF:0,CNN
+#EXTGRP:DigitalTV
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 
 
 
@@ -384,31 +392,56 @@ https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/natgeo/playl
 http://45.126.83.51/dr9445/h/h15/02.m3u8#http://45.126.83.51/dr9445/h/h15/01.m3u8
 
 
+#EXTINF:0,3 MAX SPORT1
+#EXTGRP:Sport
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/tv3max/playlist.m3u8
+
+#EXTINF:0,3 MAX SPORT2
+#EXTGRP:Sport
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/tv3sport1/playlist.m3u8
+
+#EXTINF:0,LIVERPOOL TV
+#EXTGRP:Sport
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/lfctv/playlist.m3u8
+
+#EXTINF:0,C MORE FOOTBALL
+#EXTGRP:Sport
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/cmorefootball/playlist.m3u8
+
+#EXTINF:0,FREE SPORTS
+#EXTGRP:Sport
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/uk-freesport/playlist.m3u8
+
+
+
 
 #EXTINF:0,True Premier Football HD 1
 #EXTGRP:True Sport
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf1/playlist.m3u8
+https://cdn.googlecdnforstreaming.live/dbf789/tpf1_480/chunks.m3u8
+
+
 #EXTINF:0,True Premier Football HD 2
 #EXTGRP:True Sport
-https://mediasv.online/stream_live/602_eng2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjIgOTowNTowMCBBTSZoYXNoX3ZhbHVlPWFCcUpSOUxYSktON3VaQUtuNWNWeHc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjAmaWQ9Y2hfNzIwMjc=
+https://cdn.googlecdnforstreaming.live/dbf789/tpf3/chunks.m3u8
+
 #EXTINF:0,True Premier Football HD 2/1
 #EXTGRP:True Sport
 http://dmtn.tv:8080/play/MqUd6h1561AF6Zy0IlHHa0x83HEDryyeLrnZpwyezJ_BG2DAx-82u4U9EGpXcMqxYicLA24tPEizs8-r-Ql4yM0Q_TdPQFWOZhSXqNtH5jGwOEhK-cpASSWRSeCCjRTi
-#EXTINF:0,True Premier Football HD 3
-#EXTGRP:True Sport
-https://mediasv.online/stream_live/603_eng3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjIgOTowNToyNyBBTSZoYXNoX3ZhbHVlPTFLV1psKzl1c0ZPdE5nOXBwdml6elE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjAmaWQ9Y2hfMzQ4MjA=
+
 #EXTINF:0,True Premier Football HD 3/1
 #EXTGRP:True Sport
-http://dmtn.tv:8080/play/MqUd6h1561AF6Zy0IlHHa0x83HEDryyeLrnZpwyezJ-wLgs_LaWxHnDsSbFvTbf7js_lZPA5JNVAnZJL0PU5LjL2v0bJkOlWFKoQLBC4RZZ-yuMRajQf0rjWFfuKTNL-
-#EXTINF:0,True Premier Football HD 4/1
-#EXTGRP:True Sport
-http://dmtn.tv:8080/play/MqUd6h1561AF6Zy0IlHHa0x83HEDryyeLrnZpwyezJ89lLoLn9KqLPXKhppI4Ho1WdNPsOgCp4LUzyEq5mPmpAUuhgkIwClI0PcseJKVAlQpX8rRpsUy4ygaZ8HTO09c"
+https://cdn.googlecdnforstreaming.live/dbf789/epl3/chunks.m3u8
+
 #EXTINF:0,True Premier Football HD 4
 #EXTGRP:True Sport
-https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/tpf4/chunks.m3u8?nimblesessionid=9035111&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDIyIDY6MzM6MDkgQU0maGFzaF92YWx1ZT1DUDlrQWk0UEtva2hkSTBENWV6cENRPT0mdmFsaWRtaW51dGVzPTIw
+https://cdn.googlecdnforstreaming.live/dbf789/tpf4/chunks.m3u8
+
 #EXTINF:0,True Premier Football HD 5
 #EXTGRP:True Sport
-https://mediasv.online/stream_live/605_eng5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjIgOTowNjowOSBBTSZoYXNoX3ZhbHVlPVBqb0I2QXZTTFErNklUakZRaVo2YUE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjAmaWQ9Y2hfNzIxNzc=
+https://cdn.googlecdnforstreaming.live/dbf789/epl5/chunks.m3u8
+
+
+
 #EXTINF:0,ESPN 1
 #EXTGRP:ESPN
 https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/foxsports1nl/playlist.m3u8
@@ -421,18 +454,46 @@ https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/foxsports3nl
 #EXTINF:0,ESPN 4
 #EXTGRP:ESPN
 https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/foxsports4nl/playlist.m3u8
+
+
 #EXTINF:0,Astro Super Sport 1
 #EXTGRP:Astro SuperSport
 https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/astrosupersport/playlist.m3u8
-#EXTINF:0,Astro Super Sport 2
+
+#EXTINF:0,Astro Super Sport 2/1
 #EXTGRP:Astro SuperSport
 https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/astrosupersport2/playlist.m3u8
-#EXTINF:0,Astro Super Sport 3
+
+#EXTINF:0,Astro Super Sport 2/2
+#EXTGRP:Astro SuperSport
+https://rr5---sn-w5nuxa-c33lk-21.googleuservideo.com/doofootball_r4/astrosupersport2/chunks.m3u8
+
+#EXTINF:0,Astro Super Sport 3/1
 #EXTGRP:Astro SuperSport
 https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/astrosupersport3/playlist.m3u8
-#EXTINF:0,Astro Super Sport 4
+
+#EXTINF:0,Astro Super Sport 3/2
+#EXTGRP:Astro SuperSport
+https://rr5---sn-w5nuxa-c33lk-21.googleuservideo.com/doofootball_r4/astrosupersport3/chunks.m3u8
+
+#EXTINF:0,Astro Super Sport 3/3
+#EXTGRP:Astro SuperSport
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/supersport3al/playlist.m3u8
+
+#EXTINF:0,Astro Super Sport 4/1
 #EXTGRP:Astro SuperSport
 https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/astrosupersport4/playlist.m3u8
+
+#EXTINF:0,Astro Super Sport 4/2
+#EXTGRP:Astro SuperSport
+https://rr5---sn-w5nuxa-c33lk-21.googleuservideo.com/doofootball_r4/astrosupersport4/chunks.m3u8
+
+#EXTINF:0,Astro Super Sport 5
+#EXTGRP:Astro SuperSport
+https://rr5---sn-w5nuxa-c33lk-21.googleuservideo.com/doofootball_r4/astrosupersport5/chunks.m3u8
+
+
+
 #EXTINF:0,Now Sports Prime
 #EXTGRP:Now Sports
 http://livetv.dnsfor.me/channel.12.m3u8
