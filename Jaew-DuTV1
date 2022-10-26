@@ -16,9 +16,9 @@ https://live-cdn-hwc.ch7.com/livech7hd/HD.m3u8
 #EXTGRP:DigitalTV
 https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
 
-#EXTINF:0,MCOT HD
+#EXTINF:0,MCOT 30 HD
 #EXTGRP:DigitalTV
-https://cdn6.goprimetime.info/feed/202205171329/chmcothd/index.m3u8
+https://cdn6.goprimetime.info/feed/202205171929/chmcothd/index.m3u8
 
 #EXTINF:0,PPTV HD
 #EXTGRP:DigitalTV
@@ -94,156 +94,207 @@ https://live1.thaitvstream.com/play/gochannel/index.m3u8
 #EXTINF:0,HBO
 #EXTGRP:Movie
 https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r7/hd-hbo-thai/playlist.m3u8
+
 #EXTINF:0,TRUE FILM 1
 #EXTGRP:Movie
 https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/true-filmhd/playlist.m3u8
+
 #EXTINF:0,TRUE MOVIE HITS
 #EXTGRP:Movie
 https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/moviehits/playlist.m3u8
+
 #EXTINF:0,TRUE FILM 2
 #EXTGRP:Movie
 https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/true-filmhd2/playlist.m3u8
+
 #EXTINF:0,TRUE THAI FILM
 #EXTGRP:Movie
 https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/truethaifilm/playlist.m3u8
+
 #EXTINF:0,True Film ASIAN
 #EXTGRP:Movie
 https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/truefilmasia/playlist.m3u8
+
 #EXTINF:0,TRUE CHAINESE MORE
 #EXTGRP:Movie
 https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/truechinesemore/playlist.m3u8
+
 #EXTINF:0,TRUE ASIAN MORE
 #EXTGRP:Movie
 https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/hd-asianseries/playlist.m3u8
+
 #EXTINF:0,TRUE KOREAN MORE
 #EXTGRP:Movie
 https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/truekoreanmore/playlist.m3u8
+
 #EXTINF:0,TRUE SERIES
 #EXTGRP:Movie
 https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/trueseries/playlist.m3u8
+
 #EXTINF:0,TRUE TVB
 #EXTGRP:Movie
 https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/tvb/playlist.m3u8
+
 #EXTINF:0,TRUE CCM
 #EXTGRP:Movie
 https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r8/celestial-classic-movies/playlist.m3u8
+
 #EXTINF:0,TVB THAI
 #EXTGRP:Movie
 https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/chunklist_w1167255818.m3u8
+
 #EXTINF:0,SUN
 #EXTGRP:Movie
 https://cdn6.goprimetime.info/feed/202205171329/LC1/index.m3u8
+
 #EXTINF:0,MOVIE WORLD 1
 #EXTGRP:Movie
 https://cdn6.goprimetime.info/feed/202205171329/LC11/index.m3u8
+
 #EXTINF:0,BOX FILM
 #EXTGRP:Movie
 https://cdn6.goprimetime.info/feed/202205171329/LC52/index.m3u8
+
 #EXTINF:0,THRILL
 #EXTGRP:Movie
 https://cdn6.goprimetime.info/feed/202205171329/LC26/index.m3u8
+
 #EXTINF:0,MONO29
 #EXTGRP:Movie
 https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_1080P/mono29hls_1080TH.stream/playlist.m3u8
+
 #EXTINF:0,MONO29 Plus
 #EXTGRP:Movie
 https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/monoplus/playlist.m3u8
+
 #EXTINF:0,SAMURAI
 #EXTGRP:Movie
 https://cdn6.goprimetime.info/feed/202205171329/LC2/index.m3u8
+
 #EXTINF:0,WARNER TV
 #EXTGRP:Movie
 https://cdn6.goprimetime.info/feed/202205171329/LC28/index.m3u8
+
 #EXTINF:0,PARAMOUNT
 #EXTGRP:Movie
 https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/paramount/playlist.m3u8
+
 #EXTINF:0,DREAMWORKS
 #EXTGRP:Movie
 https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/dreamworks/playlist.m3u8
+
 #EXTINF:0,HBO Hits
 #EXTGRP:Movie
 https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/hd-hbo-hit/playlist.m3u8
+
 #EXTINF:0,HBO SIGNATURE
 #EXTGRP:Movie
 https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/hd-hbo-signature/playlist.m3u8
+
 #EXTINF:0,HBO FAMILY
 #EXTGRP:Movie
 https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/hbo-family/playlist.m3u8
+
 #EXTINF:0,7FLIX
 #EXTGRP:Movie
 https://cdn6.goprimetime.info/feed/202205171329/LC5/index.m3u8
+
 #EXTINF:0,ROCK ENTERTAINMENT
 #EXTGRP:Movie
 https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r8/blueant/playlist.m3u8
+
 #EXTINF:0,CINEMAX
 #EXTGRP:Movie
 https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/fhd-cinemax/playlist.m3u8
+
 #EXTINF:0,AXN
 #EXTGRP:Movie
 https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/hd-axn/playlist.m3u8
+
 #EXTINF:0,ราม่า ทีวี
 #EXTGRP:Movie
 https://cdn6.goprimetime.info/feed/202205171329/LC27/index.m3u8
+
 #EXTINF:0,CHANNEL 8
 #EXTGRP:Movie
 http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
+
 #EXTINF:0,MEDIA NEW TV
 #EXTGRP:Movie
 https://live1.thaitvstream.com/play/medianews/index.m3u8
+
 #EXTINF:0,NK MOVIES
 #EXTGRP:Movie
 http://ch.fbth.xyz:5050/live/nktv/playlist.m3u8
+
 #EXTINF:0,FSTVMOV HD2
 #EXTGRP:Movie
 https://live.thaitvstream.com/play/thainews/index.m3u8
+
 #EXTINF:0,FW MOV
 #EXTGRP:Movie
 https://freelive.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/chunks.m3u8
+
 #EXTINF:0,3BB Asian
 #EXTGRP:Movie
 https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/3bbasian/playlist.m3u8
+
 #EXTINF:0,POPART MOVIE
 #EXTGRP:Movie
 https://26t4.short.gy/popart.m3u8
+
 #EXTINF:0,True4You
 #EXTGRP:Movie
 https://freelive.inwstream.com:1936/freelive-edge/true4u/playlist.m3u8
+
 #EXTINF:0,มังกร
 #EXTGRP:Movie
 http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
+
 #EXTINF:0,จอมยุทธ์
 #EXTGRP:Movie
 http://49.0.87.24:1936/HDJomyut/Jomyut/playlist.m3u8
+
 #EXTINF:0,CTB
 #EXTGRP:Movie
 http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
+
 #EXTINF:0,@แอททีวี
 #EXTGRP:Movie
 http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
+
 #EXTINF:0,ท็อปไลน์ ทีวี
 #EXTGRP:Movie
 https://cdn-th-vip.livestreaming.in.th/ToplineChannel/ToplineChannel/chunklist.m3u8
+
 #EXTINF:0,TOONEE
 #EXTGRP:Movie
 http://49.0.87.24:1936/HDToonee/Toonee/playlist.m3u8
+
 #EXTINF:0,BOOMERANG
 #EXTGRP:Movie
 https://cdn6.goprimetime.info/feed/202205171329/chboomberang/index.m3u8
+
 #EXTINF:0,CARTOON NETWORK
 #EXTGRP:Movie
 https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/cartoonnetwork/playlist.m3u8
+
 #EXTINF:0,FW TOON
 #EXTGRP:Movie
 https://freelive.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/playlist.m3u8
+
 #EXTINF:0,SANOOK
 #EXTGRP:Movie
 https://cdn6.goprimetime.info/feed/202205171329/LC53/index.m3u8
+
 #EXTINF:0,NICKELODEON
 #EXTGRP:Movie
 https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/nickelodeon/playlist.m3u8
+
 #EXTINF:0,TRUE SPARK JUMP
 #EXTGRP:Movie
 https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/truesparkjump/playlist.m3u8
+
 #EXTINF:0,Nick Jr.
 #EXTGRP:Movie
 https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r8/nickjr/playlist.m3u8
