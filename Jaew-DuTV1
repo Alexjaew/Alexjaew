@@ -66,6 +66,9 @@ http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
 #EXTINF:0,GOLIVE
 #EXTGRP:DigitalTV
 https://live1.thaitvstream.com/play/gochannel/index.m3u8
+
+
+
 #EXTINF:0,HBO
 #EXTGRP:Movie
 https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r7/hd-hbo-thai/playlist.m3u8
@@ -222,6 +225,9 @@ https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/truesparkjum
 #EXTINF:0,Nick Jr.
 #EXTGRP:Movie
 https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r8/nickjr/playlist.m3u8
+
+
+
 #EXTINF:0,Discovery
 #EXTGRP:Documentary
 https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r7/hd-discovery/playlist.m3u8
@@ -303,6 +309,9 @@ https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/natgeo/playl
 #EXTINF:0,Rock extream
 #EXTGRP:Documentary
 http://45.126.83.51/dr9445/h/h15/02.m3u8#http://45.126.83.51/dr9445/h/h15/01.m3u8
+
+
+
 #EXTINF:0,True Premier Football HD 1
 #EXTGRP:True Sport
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf1/playlist.m3u8
