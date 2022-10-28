@@ -84,7 +84,6 @@ https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8
 #EXTGRP:DigitalTV
 http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
 
-
 #EXTINF:0,T SPORT 7
 #EXTGRP:DigitalTV
 https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r2/tsports_480p/playlist.m3u8
@@ -503,6 +502,8 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 
 
 
+
+
 #EXTINF:0,3 MAX SPORT1
 #EXTGRP:Sport
 https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/tv3max/playlist.m3u8
@@ -522,6 +523,7 @@ https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/cmorefootbal
 #EXTINF:0,FREE SPORTS
 #EXTGRP:Sport
 https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/uk-freesport/playlist.m3u8
+
 
 
 
@@ -559,9 +561,11 @@ https://rr5---sn-w5nuxa-c33lk-34.googleuservideo.com/doofootball_r2/trueidstatio
 
 
 
+
+
 #EXTINF:0,BEIN SPORT 1 TH
 #EXTGRP:BEIN SPORT
-https://mediasv.online/stream_live/607_BEIN1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjIgOTowODoxNyBBTSZoYXNoX3ZhbHVlPWJwWnhZVVA1RWZqaWVYcnN2djlQaUE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjEmaWQ9Y2hfNzI3Mzc=
+https://doball24.com/player/live.php?ch=dooball66-bein1
 
 #EXTINF:0,BEIN SPORT 1/1 TH
 #EXTGRP:BEIN SPORT
