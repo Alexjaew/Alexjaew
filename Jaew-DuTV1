@@ -84,9 +84,6 @@ https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8
 #EXTGRP:DigitalTV
 http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
 
-#EXTINF:0,GOLIVE
-#EXTGRP:DigitalTV
-https://live1.thaitvstream.com/play/gochannel/index.m3u8
 
 #EXTINF:0,T SPORT 7
 #EXTGRP:DigitalTV
@@ -99,9 +96,7 @@ https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 
 
 
-#EXTINF:0,HBO
-#EXTGRP:Movie
-https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r7/hd-hbo-thai/playlist.m3u8
+
 
 #EXTINF:0,TRUE FILM 1
 #EXTGRP:Movie
@@ -135,6 +130,10 @@ https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/hd-asianseri
 #EXTGRP:Movie
 https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/truekoreanmore/playlist.m3u8
 
+#EXTINF:0,TRUE KBS
+#EXTGRP:Movie
+https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r7/kbsworld/playlist.m3u8
+
 #EXTINF:0,TRUE SERIES
 #EXTGRP:Movie
 https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/trueseries/playlist.m3u8
@@ -147,25 +146,21 @@ https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/tvb/playlist
 #EXTGRP:Movie
 https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r8/celestial-classic-movies/playlist.m3u8
 
+#EXTINF:0,TRUE GEM
+#EXTGRP:Movie
+https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r8/gem/chunks.m3u8
+
 #EXTINF:0,TVB THAI
 #EXTGRP:Movie
 https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/chunklist_w1167255818.m3u8
 
-#EXTINF:0,SUN
-#EXTGRP:Movie
-https://cdn6.goprimetime.info/feed/202205171329/LC1/index.m3u8
-
 #EXTINF:0,MOVIE WORLD 1
 #EXTGRP:Movie
-https://cdn6.goprimetime.info/feed/202205171329/LC11/index.m3u8
+https://cdn6.goprimetime.info/feed/202205171929/LC11/index.m3u8
 
 #EXTINF:0,BOX FILM
 #EXTGRP:Movie
-https://cdn6.goprimetime.info/feed/202205171329/LC52/index.m3u8
-
-#EXTINF:0,THRILL
-#EXTGRP:Movie
-https://cdn6.goprimetime.info/feed/202205171329/LC26/index.m3u8
+https://cdn6.goprimetime.info/feed/202205171929/LC52/playlist.m3u8
 
 #EXTINF:0,MONO29
 #EXTGRP:Movie
@@ -175,21 +170,37 @@ https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_1080P/mono29hls_1080TH.stream/
 #EXTGRP:Movie
 https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/monoplus/playlist.m3u8
 
+#EXTINF:0,SUN
+#EXTGRP:Movie
+https://cdn6.goprimetime.info/feed/202205171929/LC1/index.m3u8
+
 #EXTINF:0,SAMURAI
 #EXTGRP:Movie
-https://cdn6.goprimetime.info/feed/202205171329/LC2/index.m3u8
+https://cdn6.goprimetime.info/feed/202205171929/LC2/index.m3u8
 
 #EXTINF:0,WARNER TV
 #EXTGRP:Movie
-https://cdn6.goprimetime.info/feed/202205171329/LC28/index.m3u8
+https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r7/wbtv/playlist.m3u8
+
+#EXTINF:0,Star Movie
+#EXTGRP:Movie
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 #EXTINF:0,PARAMOUNT
 #EXTGRP:Movie
 https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/paramount/playlist.m3u8
 
-#EXTINF:0,DREAMWORKS
+#EXTINF:0,Hits Movie
 #EXTGRP:Movie
-https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/dreamworks/playlist.m3u8
+https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r7/hitsmovie/playlist.m3u8
+
+#EXTINF:0,Hits
+#EXTGRP:Movie
+https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r7/hits/playlist.m3u8
+
+#EXTINF:0,HBO
+#EXTGRP:Movie
+https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r7/hd-hbo-thai/playlist.m3u8
 
 #EXTINF:0,HBO Hits
 #EXTGRP:Movie
@@ -203,13 +214,17 @@ https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/hd-hbo-signa
 #EXTGRP:Movie
 https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/hbo-family/playlist.m3u8
 
-#EXTINF:0,7FLIX
-#EXTGRP:Movie
-https://cdn6.goprimetime.info/feed/202205171329/LC5/index.m3u8
-
 #EXTINF:0,ROCK ENTERTAINMENT
 #EXTGRP:Movie
 https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r8/blueant/playlist.m3u8
+
+#EXTINF:0,Rock extream
+#EXTGRP:Movie
+http://45.126.83.51/dr9445/h/h15/02.m3u8#http://45.126.83.51/dr9445/h/h15/01.m3u8
+
+#EXTINF:0,LifeTime
+#EXTGRP:Movie
+https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r8/lifetime/playlist.m3u8
 
 #EXTINF:0,CINEMAX
 #EXTGRP:Movie
@@ -219,17 +234,13 @@ https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/fhd-cinemax/
 #EXTGRP:Movie
 https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/hd-axn/playlist.m3u8
 
-#EXTINF:0,ราม่า ทีวี
-#EXTGRP:Movie
-https://cdn6.goprimetime.info/feed/202205171329/LC27/index.m3u8
-
 #EXTINF:0,CHANNEL 8
 #EXTGRP:Movie
 http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
 
-#EXTINF:0,MEDIA NEW TV
+#EXTINF:0,7Filx
 #EXTGRP:Movie
-https://live1.thaitvstream.com/play/medianews/index.m3u8
+https://cdn6.goprimetime.info/feed/202205171929/chzeenung/index.m3u8
 
 #EXTINF:0,NK MOVIES
 #EXTGRP:Movie
@@ -242,10 +253,6 @@ https://live.thaitvstream.com/play/thainews/index.m3u8
 #EXTINF:0,FW MOV
 #EXTGRP:Movie
 https://freelive.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/chunks.m3u8
-
-#EXTINF:0,3BB Asian
-#EXTGRP:Movie
-https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/3bbasian/playlist.m3u8
 
 #EXTINF:0,POPART MOVIE
 #EXTGRP:Movie
@@ -263,6 +270,10 @@ http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
 #EXTGRP:Movie
 http://49.0.87.24:1936/HDJomyut/Jomyut/playlist.m3u8
 
+#EXTINF:0,KMTV
+#EXTGRP:Movie
+https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r7/kmtv/playlist.m3u8
+
 #EXTINF:0,CTB
 #EXTGRP:Movie
 http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
@@ -271,125 +282,225 @@ http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
 #EXTGRP:Movie
 http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
 
-#EXTINF:0,ท็อปไลน์ ทีวี
-#EXTGRP:Movie
-https://cdn-th-vip.livestreaming.in.th/ToplineChannel/ToplineChannel/chunklist.m3u8
+
+
+
+
+
+#EXTINF:0,Boomerang TV
+#EXTGRP:Cartoon
+https://cdn6.goprimetime.info/feed/202205171929/chboomberang/index.m3u8
+
+#EXTINF:0,DREAMWORKS
+#EXTGRP:Cartoon
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/dreamworks/playlist.m3u8
 
 #EXTINF:0,TOONEE
-#EXTGRP:Movie
+#EXTGRP:Cartoon
 http://49.0.87.24:1936/HDToonee/Toonee/playlist.m3u8
 
-#EXTINF:0,BOOMERANG
-#EXTGRP:Movie
-https://cdn6.goprimetime.info/feed/202205171329/chboomberang/index.m3u8
-
 #EXTINF:0,CARTOON NETWORK
-#EXTGRP:Movie
+#EXTGRP:Cartoon
 https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/cartoonnetwork/playlist.m3u8
 
 #EXTINF:0,FW TOON
-#EXTGRP:Movie
+#EXTGRP:Cartoon
 https://freelive.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/playlist.m3u8
 
-#EXTINF:0,SANOOK
-#EXTGRP:Movie
-https://cdn6.goprimetime.info/feed/202205171329/LC53/index.m3u8
-
 #EXTINF:0,NICKELODEON
-#EXTGRP:Movie
+#EXTGRP:Cartoon
 https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/nickelodeon/playlist.m3u8
 
-#EXTINF:0,TRUE SPARK JUMP
-#EXTGRP:Movie
-https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/truesparkjump/playlist.m3u8
-
 #EXTINF:0,Nick Jr.
-#EXTGRP:Movie
+#EXTGRP:Cartoon
 https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r8/nickjr/playlist.m3u8
 
+#EXTINF:0,Nick Pluto TV
+#EXTGRP:Cartoon
+https://siloh.pluto.tv/lilo/production/Nick/01/master_1.m3u8
 
+#EXTINF:0,NICKELODEON Pluto TV
+#EXTGRP:Cartoon
+https://siloh.pluto.tv/lilo/production/Nick/02/master_1.m3u8
+
+#EXTINF:0,TRUE SPARK JUMP
+#EXTGRP:Cartoon
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/truesparkjump/playlist.m3u8
+
+#EXTINF:0,TRUE SPARK Play
+#EXTGRP:Cartoon
+https://rr5---sn-w5nuxa-c33lk-34.googleuservideo.com/doofootball_r7/truesparkplay/chunks.m3u8
+
+#EXTINF:0,SaNook
+#EXTGRP:Cartoon
+https://cdn6.goprimetime.info/feed/202205171929/LC53/index.m3u8
+
+#EXTINF:0,Cartoon Clup
+#EXTGRP:Cartoon
+https://edge1-bkk.3bb.co.th:9443/cartoonLiveApp/cartoonLiveApp.stream/playlist.m3u8
+
+#EXTINF:0,ZooMoo
+#EXTGRP:Cartoon
+https://cdn6.goprimetime.info/feed/202205171929/LC38/playlist.m3u8
+
+#EXTINF:0,ConTV
+#EXTGRP:Cartoon
+https://contvanime-littlstar.cinedigm.com/ingest/masterR1080p.m3u8
+
+#EXTINF:0,Aniplus
+#EXTGRP:Cartoon
+https://rr5---sn-w5nuxa-c33lk-34.googleuservideo.com/doofootball_r8/aniplus/chunks.m3u8
+
+#EXTINF:0,CoCoRo
+#EXTGRP:Cartoon
+https://4ea7abcc97144832b81dc50c6e8d6330.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Cocoro/playlist.m3u8
+
+
+
+
+
+
+
+#EXTINF:0,History
+#EXTGRP:Documentary
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/hd-history/playlist.m3u8
+
+#EXTINF:0,Animal Planet
+#EXTGRP:Documentary
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/hd-animalplanet/playlist.m3u8
 
 #EXTINF:0,Discovery
 #EXTGRP:Documentary
 https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r7/hd-discovery/playlist.m3u8
-#EXTINF:0,PHETCHABUN TV
+
+#EXTINF:0,Discovery Asia
 #EXTGRP:Documentary
-https://live1.thaitvstream.com/play/phetchabuntv/index.m3u8
-#EXTINF:0,TRUE XZYTE
-#EXTGRP:Documentary
-https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/xzyte/playlist.m3u8
-#EXTINF:0,BBC EARTH
-#EXTGRP:Documentary
-https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r7/bbcearth/playlist.m3u8
-#EXTINF:0,TRUE EXPLORE WILD
-#EXTGRP:Documentary
-https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/truewild/playlist.m3u8
-#EXTINF:0,TRUE EXPLORE SCI
-#EXTGRP:Documentary
-https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/truesci/playlist.m3u8
-#EXTINF:0,TRUE EXPLORE LIFE
-#EXTGRP:Documentary
-https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/truelife/playlist.m3u8
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/discovery-asia/playlist.m3u8
+
 #EXTINF:0,FOOD NETWORK
 #EXTGRP:Documentary
 https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r8/foodnetwork/playlist.m3u8
+
+#EXTINF:0,Asia food network
+#EXTGRP:Documentary
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r8/hd-afc/chunks.m3u8
+
+#EXTINF:0,PHETCHABUN TV
+#EXTGRP:Documentary
+https://live1.thaitvstream.com/play/phetchabuntv/index.m3u8
+
+#EXTINF:0,TRUE XZYTE
+#EXTGRP:Documentary
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/xzyte/playlist.m3u8
+
+#EXTINF:0,BBC EARTH
+#EXTGRP:Documentary
+https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r7/bbcearth/playlist.m3u8
+
+#EXTINF:0,BBC lifestyle
+#EXTGRP:Documentary
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/bbclifestyle/chunks.m3u8
+
+#EXTINF:0,TLC
+#EXTGRP:Documentary
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/hd-tlc/chunks.m3u8
+
+#EXTINF:0,X-ZYTE
+#EXTGRP:Documentary
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/xzyte/playlist.m3u8
+
+#EXTINF:0,TRUE EXPLORE WILD
+#EXTGRP:Documentary
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/truewild/playlist.m3u8
+
+#EXTINF:0,TRUE EXPLORE SCI
+#EXTGRP:Documentary
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/truesci/playlist.m3u8
+
+#EXTINF:0,TRUE EXPLORE LIFE
+#EXTGRP:Documentary
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/truelife/playlist.m3u8
+
 #EXTINF:0,FARM TV
 #EXTGRP:Documentary
 http://freelive2.inwstream.com:1935/freelive-edge/mixtv.stream/playlist.m3u8
+
 #EXTINF:0,สำรวจโลก TH
 #EXTGRP:Documentary
-https://cdn6.goprimetime.info/feed/202205171329/LC8/index.m3u8
+https://cdn6.goprimetime.info/feed/202205171929/LC8/index.m3u8
+
+#EXTINF:0,OutDoor
+#EXTGRP:Documentary
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r8/outdoor/chunks.m3u8
+
 #EXTINF:0,JKN 18
 #EXTGRP:Documentary
 https://5f27aa1f6ef91.streamlock.net/jkncnbc/myStream/chunklist_w1477849682.m3u8
+
 #EXTINF:0,KIK
 #EXTGRP:Documentary
 https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
+
 #EXTINF:0,DOONEE
 #EXTGRP:Documentary
 http://49.0.87.24:1936/HDDoonee/Doonee/playlist.m3u8
+
 #EXTINF:0,Thainews
 #EXTGRP:Documentary
 https://live.thaitvstream.com/play/thainews/index.m3u8
-#EXTINF:0,BBC lifestyle
-#EXTGRP:Documentary
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/205/205.mpd
+
 #EXTINF:0,OutSide+
 #EXTGRP:Documentary
 https://dai.google.com/linear/hls/event/HJAq3zH1SUy_B6fb1j80_Q/master.m3u8
+
 #EXTINF:0,MySci TV TH
 #EXTGRP:Documentary
-https://cdn6.goprimetime.info/feed/202205171329/LC37/index.m3u8
-#EXTINF:0,Wild earth
+https://cdn6.goprimetime.info/feed/202205171929/LC37/playlist.m3u8
+
+#EXTINF:0,Wild
 #EXTGRP:Documentary
-https://wildearth-roku.amagi.tv/master.m3u8
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r8/hd-natgeowild/playlist.m3u8
+
 #EXTINF:0,Big Life
 #EXTGRP:Documentary
 https://dai.google.com/linear/hls/event/qnfB93O0RVGrVBYwNjk8Zw/master.m3u8
+
 #EXTINF:0,INWILD TV
 #EXTGRP:Documentary
 https://inwild-samsung-uk.amagi.tv/playlist.m3u8
+
 #EXTINF:0,Xplore TV
 #EXTGRP:Documentary
 https://xplore-roku.amagi.tv/playlist1080-p.m3u8
+
 #EXTINF:0,Love Nature
 #EXTGRP:Documentary
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+
 #EXTINF:0,Samsung Wildlife
 #EXTGRP:Documentary
 https://d1vp12yk4i8ou5.cloudfront.net/playlist720p.m3u8#https://d1vp12yk4i8ou5.cloudfront.net/playlist.m3u8
+
 #EXTINF:0,Hunt Channel
 #EXTGRP:Documentary
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/mono.m3u8
+
 #EXTINF:0,Way Point 1
 #EXTGRP:Documentary
 https://dai.google.com/linear/hls/event/im0MqOKRTHy9nVa1sirQSg/master.m3u8
+
 #EXTINF:0,Nationnal_geographic
 #EXTGRP:Documentary
 https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/natgeo/playlist.m3u8
-#EXTINF:0,Rock extream
+
+#EXTINF:0,MEDIA NEW TV
 #EXTGRP:Documentary
-http://45.126.83.51/dr9445/h/h15/02.m3u8#http://45.126.83.51/dr9445/h/h15/01.m3u8
+https://live1.thaitvstream.com/play/medianews/index.m3u8
+
+#EXTINF:0,CMT Music
+#EXTGRP:Documentary
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
+
 
 
 #EXTINF:0,3 MAX SPORT1
@@ -411,6 +522,7 @@ https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/cmorefootbal
 #EXTINF:0,FREE SPORTS
 #EXTGRP:Sport
 https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/uk-freesport/playlist.m3u8
+
 
 
 
@@ -440,6 +552,38 @@ https://cdn.googlecdnforstreaming.live/dbf789/tpf4/chunks.m3u8
 #EXTGRP:True Sport
 https://cdn.googlecdnforstreaming.live/dbf789/epl5/chunks.m3u8
 
+#EXTINF:0,True ID
+#EXTGRP:True Sport
+https://rr5---sn-w5nuxa-c33lk-34.googleuservideo.com/doofootball_r2/trueidstation/chunks.m3u8
+
+
+
+
+#EXTINF:0,BEIN SPORT 1 TH
+#EXTGRP:BEIN SPORT
+https://mediasv.online/stream_live/607_BEIN1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjIgOTowODoxNyBBTSZoYXNoX3ZhbHVlPWJwWnhZVVA1RWZqaWVYcnN2djlQaUE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjEmaWQ9Y2hfNzI3Mzc=
+
+#EXTINF:0,BEIN SPORT 1/1 TH
+#EXTGRP:BEIN SPORT
+http://dmtn.tv:8080/play/MqUd6h1561AF6Zy0IlHHa0x83HEDryyeLrnZpwyezJ95D7R0Kqd_Ow-P8Um0gHd8soKD4d4hQEKUiXA2iQuzXjpBuCUgpuvSHiv-mw3dVbPWwzmaTUcMItYKtEOaRxRk
+
+#EXTINF:0,BEIN SPORT 1 EN
+#EXTGRP:BEIN SPORT
+http://aromatv.co:80/live/75544390pw/85532100hk/25904.m3u8
+
+#EXTINF:0,BEIN SPORT 2 TH
+#EXTGRP:BEIN SPORT
+http://203.159.95.172:8081/live/bein02/chunks.m3u8
+
+#EXTINF:0,BEIN SPORT 2 EN
+#EXTGRP:BEIN SPORT
+http://aromatv.co:80/live/75544390pw/85532100hk/166211.m3u8
+
+#EXTINF:0,BEIN SPORT 3 EN
+#EXTGRP:BEIN SPORT
+http://aromatv.co:80/live/75544390pw/85532100hk/166212.m3u8
+
+
 
 
 #EXTINF:0,ESPN 1
@@ -458,37 +602,50 @@ https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/foxsports4nl
 
 
 
-#EXTINF:0,Astro Super Sport 1
+
+#EXTINF:0,Astro Super Sport 1/1
 #EXTGRP:Astro SuperSport
 https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/astrosupersport/playlist.m3u8
+#EXTINF:0,Astro Super Sport 1/2
+#EXTGRP:Astro SuperSport
+https://rr5---sn-w5nuxa-c33lk-34.googleuservideo.com/doofootball_r4/astrosupersport/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyMiA1OjIxOjI4IEFNJmhhc2hfdmFsdWU9Y2M0VUE5ejgyMGdiNnVCUFBRZXJmdz09JnZhbGlkbWludXRlcz0xJnN0cm1fbGVuPTMwJmlkPTgwNDYxMg==
+
 
 #EXTINF:0,Astro Super Sport 2/1
 #EXTGRP:Astro SuperSport
 https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/astrosupersport2/playlist.m3u8
-
 #EXTINF:0,Astro Super Sport 2/2
 #EXTGRP:Astro SuperSport
 https://rr5---sn-w5nuxa-c33lk-21.googleuservideo.com/doofootball_r4/astrosupersport2/chunks.m3u8
+#EXTINF:0,Astro Super Sport 2/3
+#EXTGRP:Astro SuperSport
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/astrosupersport2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyMiA1OjI1OjAwIEFNJmhhc2hfdmFsdWU9VlowaHVaLzBBYWxxUmdPR0dGek81UT09JnZhbGlkbWludXRlcz0xJnN0cm1fbGVuPTMxJmlkPTM0NjU1NA==
+
 
 #EXTINF:0,Astro Super Sport 3/1
 #EXTGRP:Astro SuperSport
 https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/astrosupersport3/playlist.m3u8
-
 #EXTINF:0,Astro Super Sport 3/2
 #EXTGRP:Astro SuperSport
 https://rr5---sn-w5nuxa-c33lk-21.googleuservideo.com/doofootball_r4/astrosupersport3/chunks.m3u8
-
 #EXTINF:0,Astro Super Sport 3/3
 #EXTGRP:Astro SuperSport
+https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r4/astrosupersport3/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyMiA1OjI1OjM4IEFNJmhhc2hfdmFsdWU9bzRjeVUvTkV5ZHhEenViQzF4anJ0QT09JnZhbGlkbWludXRlcz0xJnN0cm1fbGVuPTMxJmlkPTU2NDA4Mw==
+#EXTINF:0,Astro Super Sport 3/4
+#EXTGRP:Astro SuperSport
 https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/supersport3al/playlist.m3u8
+
 
 #EXTINF:0,Astro Super Sport 4/1
 #EXTGRP:Astro SuperSport
 https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/astrosupersport4/playlist.m3u8
-
 #EXTINF:0,Astro Super Sport 4/2
 #EXTGRP:Astro SuperSport
 https://rr5---sn-w5nuxa-c33lk-21.googleuservideo.com/doofootball_r4/astrosupersport4/chunks.m3u8
+#EXTINF:0,Astro Super Sport 4/3
+#EXTGRP:Astro SuperSport
+https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r4/astrosupersport4/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyMiA1OjI2OjEzIEFNJmhhc2hfdmFsdWU9MmVZTnVmY09tQzc5QXpoeVZZbktWZz09JnZhbGlkbWludXRlcz0xJnN0cm1fbGVuPTMxJmlkPTc5NDgwMw==
+
 
 #EXTINF:0,Astro Super Sport 5
 #EXTGRP:Astro SuperSport
@@ -496,201 +653,262 @@ https://rr5---sn-w5nuxa-c33lk-21.googleuservideo.com/doofootball_r4/astrosupersp
 
 
 
+
 #EXTINF:0,Now Sports Prime
 #EXTGRP:Now Sports
 http://livetv.dnsfor.me/channel.12.m3u8
+
 #EXTINF:0,Now Premier Sports 1 FHD HK VIP SPORTS
 #EXTGRP:Now Sports
 http://portal.geniptv.com:8080/JDXMbWujQK/tXjUHFqL2D/101921
+
 #EXTINF:0,Now Sports 1 HD HK VIP SPORTS
 #EXTGRP:Now Sports
 http://portal.geniptv.com:8080/JDXMbWujQK/tXjUHFqL2D/101928
+
 #EXTINF:0,Now Sports 2 HD HK VIP SPORTS
 #EXTGRP:Now Sports
 http://portal.geniptv.com:8080/JDXMbWujQK/tXjUHFqL2D/101927
+
 #EXTINF:0,Now Sports 3 HD HK VIP SPORTS
 #EXTGRP:Now Sports
 http://portal.geniptv.com:8080/JDXMbWujQK/tXjUHFqL2D/101926
+
 #EXTINF:0,Now Sports 4 HD HK VIP SPORTS
 #EXTGRP:Now Sports
 http://portal.geniptv.com:8080/JDXMbWujQK/tXjUHFqL2D/101925
+
 #EXTINF:0,Now Sports 5 HD HK VIP SPORTS
 #EXTGRP:Now Sports
 http://portal.geniptv.com:8080/JDXMbWujQK/tXjUHFqL2D/101924
+
 #EXTINF:0,Now Sports 6 HD HK VIP SPORTS
 #EXTGRP:Now Sports
 http://portal.geniptv.com:8080/JDXMbWujQK/tXjUHFqL2D/101923
+
 #EXTINF:0,Now Sports 7 HD HK VIP SPORTS
 #EXTGRP:Now Sports
 http://portal.geniptv.com:8080/JDXMbWujQK/tXjUHFqL2D/101922
+
 #EXTINF:0,Now Premier Sports 2 HD HK VIP SPORTS
 #EXTGRP:Now Sports
 http://portal.geniptv.com:8080/JDXMbWujQK/tXjUHFqL2D/101920
+
 #EXTINF:0,Now Premier Sports 3 HD HK VIP SPORTS
 #EXTGRP:Now Sports
 http://portal.geniptv.com:8080/JDXMbWujQK/tXjUHFqL2D/101919
+
 #EXTINF:0,Now Premier Sports 4 HD HK VIP SPORTS
 #EXTGRP:Now Sports
 http://portal.geniptv.com:8080/JDXMbWujQK/tXjUHFqL2D/101918
+
 #EXTINF:0,Now Premier Sports 5 HD HK VIP SPORTS
 #EXTGRP:Now Sports
 http://portal.geniptv.com:8080/JDXMbWujQK/tXjUHFqL2D/101917
+
 #EXTINF:0,Now Premier Sports 6 HD HK VIP SPORTS
 #EXTGRP:Now Sports
 http://portal.geniptv.com:8080/JDXMbWujQK/tXjUHFqL2D/101916
+
 #EXTINF:0,Now Premier Sports 7 HD HK VIP SPORTS
 #EXTGRP:Now Sports
 http://portal.geniptv.com:8080/JDXMbWujQK/tXjUHFqL2D/101915
+
 #EXTINF:0,Now Premier Sports 8 HD HK VIP SPORTS
 #EXTGRP:Now Sports
 http://portal.geniptv.com:8080/JDXMbWujQK/tXjUHFqL2D/101914
 
 
 
+
+
 #EXTINF:0,SKY FOOTBALL
 #EXTGRP:Sky Sports
 https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/skysportfootball/playlist.m3u8
+
 #EXTINF:0,SuperSport Premier League HD1
 #EXTGRP:Sky Sports
 http://axcestv.vip:8080/live/freeview/axcestv/793.ts
-#EXTINF:0,SuperSport Premier League FHD VIP AF
+
+#EXTINF:0,SKY SPORT MAIN EVENT
 #EXTGRP:Sky Sports
-http://satelliteiptv.xyz:8080/xoqlju9ei/mgecfuxhj/694236
-#EXTINF:0,SuperSport Football HD VIP AF
+https://rr5---sn-w5nuxa-c33lk-34.googleuservideo.com/doofootball_r4/skysportmainevent/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyMiA1OjM0OjUyIEFNJmhhc2hfdmFsdWU9dUdwSjhzQU1OYUF0eHJxdkhkQzR2dz09JnZhbGlkbWludXRlcz0xJnN0cm1fbGVuPTMyJmlkPTc0OTc5NQ==
+
+#EXTINF:0,SKY SPORT FOOTBALL
+#EXTGRP:Sky Sports
+https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r4/skysportfootball/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyMiA1OjM4OjE0IEFNJmhhc2hfdmFsdWU9MkZjRVhYTFg5YzVQMXBIQ00yV2lZdz09JnZhbGlkbWludXRlcz0xJnN0cm1fbGVuPTMxJmlkPTkyNzA3NA==
+
+#EXTINF:0,SuperSport Football HD VIP
 #EXTGRP:Sky Sports
 http://satelliteiptv.xyz:8080/xoqlju9ei/mgecfuxhj/678024
+
 #EXTINF:0,S Sports Football FHD UK
 #EXTGRP:Sky Sports
 http://portal.geniptv.com:8080/JDXMbWujQK/tXjUHFqL2D/6205
-#EXTINF:0,S Sports Premier League FHD UK
-#EXTGRP:Sky Sports
-http://portal.geniptv.com:8080/JDXMbWujQK/tXjUHFqL2D/5718
+
 #EXTINF:0,S Sports Premier League FHD VIP UK
 #EXTGRP:Sky Sports
 http://portal.geniptv.com:8080/JDXMbWujQK/tXjUHFqL2D/10826
+
 #EXTINF:0,S Sports Premier League HD VIP UK
 #EXTGRP:Sky Sports
 http://portal.geniptv.com:8080/JDXMbWujQK/tXjUHFqL2D/10792
+
 #EXTINF:0,S Sports Football FHD UK VIP SPORTS
 #EXTGRP:Sky Sports
 http://portal.geniptv.com:8080/JDXMbWujQK/tXjUHFqL2D/66874
-#EXTINF:0,S Sports Football UK
-#EXTGRP:Sky Sports
-http://portal.geniptv.com:8080/JDXMbWujQK/tXjUHFqL2D/6203
+
 #EXTINF:0,S Sports Premier League HD UK
 #EXTGRP:Sky Sports
 http://portal.geniptv.com:8080/JDXMbWujQK/tXjUHFqL2D/331
+
 #EXTINF:0,S Sports Premier League UK
 #EXTGRP:Sky Sports
 http://portal.geniptv.com:8080/JDXMbWujQK/tXjUHFqL2D/372
+
 #EXTINF:0,S Sport 1 HD DE
 #EXTGRP:Sky Sports
 http://portal.geniptv.com:8080/JDXMbWujQK/tXjUHFqL2D/12697
+
+
+
+
+
 #EXTINF:0,DAZN 1 HD CA VIP SPORTS
 #EXTGRP:DAZN
 http://portal.geniptv.com:8080/JDXMbWujQK/tXjUHFqL2D/101963
+
 #EXTINF:0,DAZN 1 HD CA VIP SPORTS/1
 #EXTGRP:DAZN
 http://alienstreams.fi:7070/ziggy.jones@live.se/PnSmFb6Mxc/86177
+
 #EXTINF:0,DAZN 2 HD CA VIP SPORTS
 #EXTGRP:DAZN
 http://portal.geniptv.com:8080/JDXMbWujQK/tXjUHFqL2D/101962
+
 #EXTINF:0,DAZN 2 HD CA VIP SPORTS/2
 #EXTGRP:DAZN
 http://alienstreams.fi:7070/ziggy.jones@live.se/PnSmFb6Mxc/86178
+
 #EXTINF:0,DAZN 3 HD CA VIP SPORTS
 #EXTGRP:DAZN
 http://portal.geniptv.com:8080/JDXMbWujQK/tXjUHFqL2D/101961
+
 #EXTINF:0,DAZN 4 HD CA VIP SPORTS
 #EXTGRP:DAZN
 http://portal.geniptv.com:8080/JDXMbWujQK/tXjUHFqL2D/101960
+
 #EXTINF:0,DAZN 5 HD CA VIP SPORTS
 #EXTGRP:DAZN
 http://portal.geniptv.com:8080/JDXMbWujQK/tXjUHFqL2D/101959
+
 #EXTINF:0,DAZN 6 HD CA VIP SPORTS
 #EXTGRP:DAZN
 http://portal.geniptv.com:8080/JDXMbWujQK/tXjUHFqL2D/101958
+
 #EXTINF:0,DAZN 7 HD CA VIP SPORTS
 #EXTGRP:DAZN
 http://portal.geniptv.com:8080/JDXMbWujQK/tXjUHFqL2D/101957
+
 #EXTINF:0,DAZN 8 HD CA VIP SPORTS
 #EXTGRP:DAZN
 http://portal.geniptv.com:8080/JDXMbWujQK/tXjUHFqL2D/101956
+
 #EXTINF:0,DAZN 9 HD CA VIP SPORTS
 #EXTGRP:DAZN
 http://portal.geniptv.com:8080/JDXMbWujQK/tXjUHFqL2D/101955
+
 #EXTINF:0,DAZN 10 HD CA VIP SPORTS
 #EXTGRP:DAZN
 http://portal.geniptv.com:8080/JDXMbWujQK/tXjUHFqL2D/101954
+
 #EXTINF:0,DAZN 11 HD CA VIP SPORTS
 #EXTGRP:DAZN
 http://portal.geniptv.com:8080/JDXMbWujQK/tXjUHFqL2D/101953
+
 #EXTINF:0,DAZN 12 HD CA VIP SPORTS
 #EXTGRP:DAZN
 http://portal.geniptv.com:8080/JDXMbWujQK/tXjUHFqL2D/101952
+
 #EXTINF:0,DAZN 13 HD CA VIP SPORTS
 #EXTGRP:DAZN
 http://portal.geniptv.com:8080/JDXMbWujQK/tXjUHFqL2D/101951
+
 #EXTINF:0,DAZN 1 FHD DE
 #EXTGRP:DAZN
 http://ipflix.click:8080/2p4xheuufc/5scojrom59/661090
+
 #EXTINF:0,Dazn FHD ES VIP SPORTS
 #EXTGRP:DAZN
 http://portal.geniptv.com:8080/JDXMbWujQK/tXjUHFqL2D/75232
+
 #EXTINF:0,DAZN Bar 1 HD VIP SPORTS
 #EXTGRP:DAZN
 http://portal.geniptv.com:8080/JDXMbWujQK/tXjUHFqL2D/73979
+
 #EXTINF:0,DAZN Bar 2 HD VIP SPORTS
 #EXTGRP:DAZN
 http://portal.geniptv.com:8080/JDXMbWujQK/tXjUHFqL2D/73980
+
 #EXTINF:0,DAZN 1 VIP SPORTS
 #EXTGRP:DAZN
 http://portal.geniptv.com:8080/JDXMbWujQK/tXjUHFqL2D/93880
+
 #EXTINF:0,DAZN 2 VIP SPORTS
 #EXTGRP:DAZN
 http://portal.geniptv.com:8080/JDXMbWujQK/tXjUHFqL2D/93881
+
 #EXTINF:0,DAZN 1 HD DE
 #EXTGRP:DAZN
 http://ipflix.click:8080/2p4xheuufc/5scojrom59/625243
+
 #EXTINF:0,DAZN 1 [B] HD DE
 #EXTGRP:DAZN
 http://ipflix.click:8080/2p4xheuufc/5scojrom59/661088
+
 #EXTINF:0,DAZN 2 HD
 #EXTGRP:DAZN
 http://ipflix.click:8080/2p4xheuufc/5scojrom59/50775
+
 #EXTINF:0,DAZN 2 FHD DE
 #EXTGRP:DAZN
 http://ipflix.click:8080/2p4xheuufc/5scojrom59/661089
+
 #EXTINF:0,DAZN 2 HD DE
 #EXTGRP:DAZN
 http://ipflix.click:8080/2p4xheuufc/5scojrom59/50775
-#EXTINF:0,BT SPORT 1
+
+
+
+
+#EXTINF:0,BT SPORT 1/1
 #EXTGRP:BT SPORT
 https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/btsport1/playlist.m3u8
-#EXTINF:0,BT SPORT 2
+#EXTINF:0,BT SPORT 1/2
+#EXTGRP:BT SPORT
+https://rr5---sn-w5nuxa-c33lk-34.googleuservideo.com/doofootball_r4/btsport1/chunks.m3u8
+
+#EXTINF:0,BT SPORT 2/1
 #EXTGRP:BT SPORT
 https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/btsport2/playlist.m3u8
-#EXTINF:0,BT SPORT 3
+#EXTINF:0,BT SPORT 2/2
+#EXTGRP:BT SPORT
+https://rr5---sn-w5nuxa-c33lk-34.googleuservideo.com/doofootball_r4/btsport2/chunks.m3u8
+
+#EXTINF:0,BT SPORT 3/1
 #EXTGRP:BT SPORT
 https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/btsport3/playlist.m3u8
+#EXTINF:0,BT SPORT 3/2
+#EXTGRP:BT SPORT
+https://rr5---sn-w5nuxa-c33lk-34.googleuservideo.com/doofootball_r4/btsport3/chunks.m3u8
+
 #EXTINF:0,BT SPORT 4
 #EXTGRP:BT SPORT
 https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/btsportespn/playlist.m3u8
-#EXTINF:0,BEIN SPORT 1 TH
-#EXTGRP:BEIN SPORT
-https://mediasv.online/stream_live/607_BEIN1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjIgOTowODoxNyBBTSZoYXNoX3ZhbHVlPWJwWnhZVVA1RWZqaWVYcnN2djlQaUE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjEmaWQ9Y2hfNzI3Mzc=
-#EXTINF:0,BEIN SPORT 1/1 TH
-#EXTGRP:BEIN SPORT
-http://dmtn.tv:8080/play/MqUd6h1561AF6Zy0IlHHa0x83HEDryyeLrnZpwyezJ95D7R0Kqd_Ow-P8Um0gHd8soKD4d4hQEKUiXA2iQuzXjpBuCUgpuvSHiv-mw3dVbPWwzmaTUcMItYKtEOaRxRk
-#EXTINF:0,BEIN SPORT 1 EN
-#EXTGRP:BEIN SPORT
-http://aromatv.co:80/live/75544390pw/85532100hk/25904.m3u8
-#EXTINF:0,BEIN SPORT 2 TH
-#EXTGRP:BEIN SPORT
-http://203.159.95.172:8081/live/bein02/chunks.m3u8
-#EXTINF:0,BEIN SPORT 2 EN
-#EXTGRP:BEIN SPORT
-http://aromatv.co:80/live/75544390pw/85532100hk/166211.m3u8
-#EXTINF:0,BEIN SPORT 3 EN
-#EXTGRP:BEIN SPORT
-http://aromatv.co:80/live/75544390pw/85532100hk/166212.m3u8
+
+
+
+
+
+
+
