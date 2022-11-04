@@ -4,6 +4,10 @@
 #EXTGRP:DigitalTV
 https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r2/3hd_720p/chunks.m3u8
 
+#EXTINF:0,3/1 HD
+#EXTGRP:DigitalTV
+https://livefta.malimarcdn.com/ftaedge00/nat.sdp/playlist.m3u8
+
 #EXTINF:0,CH5 HD
 #EXTGRP:DigitalTV
 https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r2/5hd_720p/chunks.m3u8
