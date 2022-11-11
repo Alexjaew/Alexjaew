@@ -196,6 +196,10 @@ https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r7/wbtv/playlis
 #EXTGRP:Movie
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
+#EXTINF:0,Sony Pix
+#EXTGRP:Movie
+https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_pix_hd.smil/manifest.mpd
+
 #EXTINF:0,PARAMOUNT
 #EXTGRP:Movie
 https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/paramount/playlist.m3u8
