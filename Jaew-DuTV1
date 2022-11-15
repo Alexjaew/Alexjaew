@@ -526,14 +526,6 @@ http://freelive2.inwstream.com:1935/freelive-edge/mixtv.stream/playlist.m3u8
 #EXTINF:0,True Premier Football HD 1
 #EXTGRP:True Sport
 https://cdn.googlecdnforstreaming.live/dbf789/tpf1_480/chunks.m3u8
-#EXTINF:0,True Premier Football HD 1/2
-#EXTGRP:True Sport
-https://cdn.googlecdnforstreaming.live/dbf789/epl1/chunks.m3u8
-#EXTINF:0,True Premier Football HD 1/3
-#EXTGRP:True Sport
-http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115501
-
-
 
 #EXTINF:0,True Premier Football HD 2
 #EXTGRP:True Sport
@@ -541,9 +533,9 @@ https://cdn.googlecdnforstreaming.live/dbf789/epl2/chunks.m3u8
 #EXTINF:0,True Premier Football HD 2/1
 #EXTGRP:True Sport
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115508
-
-
-
+#EXTINF:0,True Premier Football HD 2/2
+#EXTGRP:True Sport
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115509
 
 #EXTINF:0,True Premier Football HD 3
 #EXTGRP:True Sport
@@ -555,9 +547,6 @@ https://cdn.googlecdnforstreaming.live/dbf789/tpf3/chunks.m3u8
 #EXTGRP:True Sport
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115510
 #EXTINF:0,True Premier Football HD 3/3
-#EXTGRP:True Sport
-http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115509
-#EXTINF:0,True Premier Football HD 3/4
 #EXTGRP:True Sport
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115511
 
