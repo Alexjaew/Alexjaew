@@ -525,7 +525,20 @@ http://freelive2.inwstream.com:1935/freelive-edge/mixtv.stream/playlist.m3u8
 
 #EXTINF:0,True Premier Football HD 1
 #EXTGRP:True Sport
+https://raw.githubusercontent.com/Playidturl1/playlist/main/sportch/tpf1b.m3u8
+#EXTINF:0,True Premier Football HD 1/1
+#EXTGRP:True Sport
+http://w.nasvpn.xyz:8080/live/best/best/16395.m3u8
+#EXTINF:0,True Premier Football HD 1/2
+#EXTGRP:True Sport
 https://cdn.googlecdnforstreaming.live/dbf789/tpf1_480/chunks.m3u8
+#EXTINF:0,True Premier Football HD 1/3
+#EXTGRP:True Sport
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115759
+#EXTINF:0,True Premier Football HD 1/4
+#EXTGRP:True Sport
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115760
+
 
 #EXTINF:0,True Premier Football HD 2
 #EXTGRP:True Sport
