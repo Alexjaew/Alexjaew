@@ -102,17 +102,11 @@ https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r2/tsports_480p
 
 
 
-#EXTINF:0,TRUE FILM 1
-#EXTGRP:Movie
-https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/true-filmhd/playlist.m3u8
+
 
 #EXTINF:0,TRUE MOVIE HITS
 #EXTGRP:Movie
 https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/moviehits/playlist.m3u8
-
-#EXTINF:0,TRUE FILM 2
-#EXTGRP:Movie
-https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/true-filmhd2/playlist.m3u8
 
 #EXTINF:0,TRUE THAI FILM
 #EXTGRP:Movie
@@ -548,9 +542,7 @@ https://cdn.googlecdnforstreaming.live/dbf789/epl2/chunks.m3u8
 #EXTINF:0,True Premier Football HD 2/2
 #EXTGRP:True Sport
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115508
-#EXTINF:0,True Premier Football HD 2/3
-#EXTGRP:True Sport
-http://dmtn.tv:8080/play/MqUd6h1561AF6Zy0IlHHa0x83HEDryyeLrnZpwyezJ_BG2DAx-82u4U9EGpXcMqxYicLA24tPEizs8-r-Ql4yM0Q_TdPQFWOZhSXqNtH5jGwOEhK-cpASSWRSeCCjRTi
+
 
 
 #EXTINF:0,True Premier Football HD 3
