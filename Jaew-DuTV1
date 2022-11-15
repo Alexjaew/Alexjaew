@@ -92,16 +92,6 @@ http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
 #EXTGRP:DigitalTV
 https://cdn6.goprimetime.info/feed/202205171929/TPTV/index.m3u8
 
-#EXTINF:0,MONO29
-#EXTGRP:DigitalTV
-https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_1080P/mono29hls_1080TH.stream/playlist.m3u8
-#EXTINF:0,MONO29/FHD
-#EXTGRP:DigitalTV
-https://live-3.monomax.me/tv/mono29_1080p.m3u8
-#EXTINF:0,MONO29 En
-#EXTGRP:DigitalTV
-https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_1080P/mono29hls_1080EN.stream/playlist.m3u8
-
 #EXTINF:0,T SPORT 7
 #EXTGRP:DigitalTV
 https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r2/tsports_480p/playlist.m3u8
@@ -176,6 +166,18 @@ https://cdn6.goprimetime.info/feed/202205171929/LC11/index.m3u8
 #EXTGRP:Movie
 https://cdn6.goprimetime.info/feed/202205171929/LC52/playlist.m3u8
 
+#EXTINF:0,MONO29
+#EXTGRP:Movie
+https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_1080P/mono29hls_1080TH.stream/playlist.m3u8
+
+#EXTINF:0,MONO29/FHD
+#EXTGRP:Movie
+https://live-3.monomax.me/tv/mono29_1080p.m3u8
+
+#EXTINF:0,MONO29 En
+#EXTGRP:Movie
+https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_1080P/mono29hls_1080EN.stream/playlist.m3u8
+
 #EXTINF:0,MONO29 Plus
 #EXTGRP:Movie
 https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/monoplus/playlist.m3u8
@@ -194,6 +196,7 @@ https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r7/wbtv/playlis
 
 #EXTINF:0,Star Movie
 #EXTGRP:Movie
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 #EXTINF:0,Sony Pix
@@ -515,30 +518,58 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 
 
 
-#EXTINF:0,True Premier Football HD 1
+#EXTINF:0,True Premier Football HD 1 TH
 #EXTGRP:True Sport
 https://cdn.googlecdnforstreaming.live/dbf789/tpf1_480/chunks.m3u8
+#EXTINF:0,True Premier Football HD 1 EN
+#EXTGRP:True Sport
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115758
+#EXTINF:0,True Premier Football HD 1 TH
+#EXTGRP:True Sport
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115759
 
 
 #EXTINF:0,True Premier Football HD 2
 #EXTGRP:True Sport
 https://cdn.googlecdnforstreaming.live/dbf789/tpf3/chunks.m3u8
-
-#EXTINF:0,True Premier Football HD 2/1
+#EXTINF:0,True Premier Football HD 2/1 EN
+#EXTGRP:True Sport
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115762
+#EXTINF:0,True Premier Football HD 2/2
+#EXTGRP:True Sport
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115508
+#EXTINF:0,True Premier Football HD 2/3
 #EXTGRP:True Sport
 http://dmtn.tv:8080/play/MqUd6h1561AF6Zy0IlHHa0x83HEDryyeLrnZpwyezJ_BG2DAx-82u4U9EGpXcMqxYicLA24tPEizs8-r-Ql4yM0Q_TdPQFWOZhSXqNtH5jGwOEhK-cpASSWRSeCCjRTi
 
-#EXTINF:0,True Premier Football HD 3/1
+#EXTINF:0,True Premier Football HD 3
 #EXTGRP:True Sport
 https://cdn.googlecdnforstreaming.live/dbf789/epl3/chunks.m3u8
+#EXTINF:0,True Premier Football HD 3/1
+#EXTGRP:True Sport
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115510
+#EXTINF:0,True Premier Football HD 3/2 EN
+#EXTGRP:True Sport
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115511
+
 
 #EXTINF:0,True Premier Football HD 4
 #EXTGRP:True Sport
 https://cdn.googlecdnforstreaming.live/dbf789/tpf4/chunks.m3u8
+#EXTINF:0,True Premier Football HD 4/1
+#EXTGRP:True Sport
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115513
+#EXTINF:0,True Premier Football HD 4/2
+#EXTGRP:True Sport
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115768
+
 
 #EXTINF:0,True Premier Football HD 5
 #EXTGRP:True Sport
 https://cdn.googlecdnforstreaming.live/dbf789/epl5/chunks.m3u8
+#EXTINF:0,True Premier Football HD 5/1
+#EXTGRP:True Sport
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115515
 
 #EXTINF:0,True ID
 #EXTGRP:True Sport
@@ -596,6 +627,10 @@ https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/foxsports4nl
 #EXTINF:0,Astro Super Sport 1/1
 #EXTGRP:Astro SuperSport
 https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/astrosupersport/playlist.m3u8
+#EXTINF:0,Astro Super Sport 1/2
+#EXTGRP:Astro SuperSport
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115615
+
 
 #EXTINF:0,Astro Super Sport 1/2
 #EXTGRP:Astro SuperSport
