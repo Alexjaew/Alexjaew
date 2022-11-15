@@ -610,6 +610,16 @@ https://cdn.googlecdnforstreaming.live/dbf789/bein2/chunks.m3u8
 #EXTGRP:True Sport
 https://cdn.googlecdnforstreaming.live/dbf789/bein3/chunks.m3u8
 
+#EXTINF:-1,BEIN 1 ENG
+#EXTGRP:True Sport
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/bein1englisharab/playlist.m3u8
+#EXTINF:-1,BEIN 2 ENG
+#EXTGRP:True Sport
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/bein2englisharab/playlist.m3u8
+#EXTINF:-1,BEIN 3 ENG
+#EXTGRP:True Sport
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/bein3englisharab/playlist.m3u8
+
 #EXTINF:0,True Sport1
 #EXTGRP:True Sport
 https://cdn.googlecdnforstreaming.live/dbf789/tsp1/chunks.m3u8
@@ -1004,15 +1014,7 @@ https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/btsportespn/
 
 
 
-#EXTINF:-1,BEIN 1 ENG
-#EXTGRP:BEIN
-https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/bein1englisharab/playlist.m3u8
-#EXTINF:-1,BEIN 2 ENG
-#EXTGRP:BEIN
-https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/bein2englisharab/playlist.m3u8
-#EXTINF:-1,BEIN 3 ENG
-#EXTGRP:BEIN
-https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/bein3englisharab/playlist.m3u8
+
 
 
 #EXTINF:-1,SUPERSPORT FOOTBALL
