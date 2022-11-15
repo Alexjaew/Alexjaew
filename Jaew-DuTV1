@@ -200,6 +200,10 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTGRP:Movie
 http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/49539
 
+#EXTINF:0,Sony Pix/1
+#EXTGRP:Movie
+http://iptvtree.net:8080/live/Jonsno/jv5DR53f7EG3Ajvx65/49539.ts
+
 #EXTINF:0,PARAMOUNT
 #EXTGRP:Movie
 https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/paramount/playlist.m3u8
