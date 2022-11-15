@@ -197,7 +197,6 @@ https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r7/wbtv/playlis
 #EXTINF:0,Star Movie
 #EXTGRP:Movie
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 #EXTINF:0,Sony Pix
 #EXTGRP:Movie
@@ -218,6 +217,10 @@ https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r7/hits/playlis
 #EXTINF:0,HBO
 #EXTGRP:Movie
 https://rr5---sn-w5nuxa-c33lk-34.googleuservideo.com/doofootball_r7/hd-hbo-thai/playlist.m3u8
+#EXTINF:0,HBO/1
+#EXTGRP:Movie
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/hd-hbo-thai/playlist.m3u8
+
 
 #EXTINF:0,HBO Hits
 #EXTGRP:Movie
@@ -266,6 +269,10 @@ https://cdn6.goprimetime.info/feed/202205171929/chzeenung/index.m3u8
 #EXTINF:0,NK MOVIES
 #EXTGRP:Movie
 http://ch.fbth.xyz:5050/live/nktv/playlist.m3u8
+
+#EXTINF:0,PHETCHABUN TV
+#EXTGRP:Movie
+https://live1.thaitvstream.com/play/phetchabuntv/index.m3u8
 
 #EXTINF:0,Thai New
 #EXTGRP:Movie
@@ -514,6 +521,10 @@ https://live1.thaitvstream.com/play/medianews/index.m3u8
 #EXTGRP:Documentary
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 
+#EXTINF:0,Fram TV
+#EXTGRP:Documentary
+http://freelive2.inwstream.com:1935/freelive-edge/mixtv.stream/playlist.m3u8
+
 
 
 
@@ -527,12 +538,13 @@ http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115758
 
 
 
-#EXTINF:0,True Premier Football HD 2 TH
+
+#EXTINF:0,True Premier Football HD 2
 #EXTGRP:True Sport
 https://cdn.googlecdnforstreaming.live/dbf789/tpf3/chunks.m3u8
-#EXTINF:0,True Premier Football HD 2/1 EN
+#EXTINF:0,True Premier Football HD 2/1
 #EXTGRP:True Sport
-http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115762
+https://cdn.googlecdnforstreaming.live/dbf789/epl2/chunks.m3u8
 #EXTINF:0,True Premier Football HD 2/2
 #EXTGRP:True Sport
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115508
@@ -540,83 +552,148 @@ http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115508
 #EXTGRP:True Sport
 http://dmtn.tv:8080/play/MqUd6h1561AF6Zy0IlHHa0x83HEDryyeLrnZpwyezJ_BG2DAx-82u4U9EGpXcMqxYicLA24tPEizs8-r-Ql4yM0Q_TdPQFWOZhSXqNtH5jGwOEhK-cpASSWRSeCCjRTi
 
-#EXTINF:0,True Premier Football HD 3 TH
+
+#EXTINF:0,True Premier Football HD 3
 #EXTGRP:True Sport
 https://cdn.googlecdnforstreaming.live/dbf789/epl3/chunks.m3u8
 #EXTINF:0,True Premier Football HD 3/1
 #EXTGRP:True Sport
+https://cdn.googlecdnforstreaming.live/dbf789/tpf3/chunks.m3u8
+#EXTINF:0,True Premier Football HD 3/2
+#EXTGRP:True Sport
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115510
-#EXTINF:0,True Premier Football HD 3/2 EN
+#EXTINF:0,True Premier Football HD 3/3
 #EXTGRP:True Sport
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115511
 
 
-#EXTINF:0,True Premier Football HD 4 TH
+#EXTINF:0,True Premier Football HD 4
 #EXTGRP:True Sport
 https://cdn.googlecdnforstreaming.live/dbf789/tpf4/chunks.m3u8
 #EXTINF:0,True Premier Football HD 4/1
 #EXTGRP:True Sport
-http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115513
+https://cdn.googlecdnforstreaming.live/dbf789/epl4/chunks.m3u8
 #EXTINF:0,True Premier Football HD 4/2
+#EXTGRP:True Sport
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115513
+#EXTINF:0,True Premier Football HD 4/3
 #EXTGRP:True Sport
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115768
 
 
-#EXTINF:0,True Premier Football HD 5 TH
+#EXTINF:0,True Premier Football HD 5
 #EXTGRP:True Sport
 https://cdn.googlecdnforstreaming.live/dbf789/epl5/chunks.m3u8
 #EXTINF:0,True Premier Football HD 5/1
 #EXTGRP:True Sport
+https://cdn.googlecdnforstreaming.live/dbf789/tpf5/chunks.m3u8
+#EXTINF:0,True Premier Football HD 5/2
+#EXTGRP:True Sport
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115515
 
-#EXTINF:0,True ID
+#EXTINF:0,True ID STATION
 #EXTGRP:True Sport
 https://rr5---sn-w5nuxa-c33lk-34.googleuservideo.com/doofootball_r2/trueidstation/chunks.m3u8
+#EXTINF:0,True ID STATION/1
+#EXTGRP:True Sport
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r2/trueidstation/playlist.m3u8
 
-
-
-
-
-
-#EXTINF:0,BEIN SPORT 1 TH
-#EXTGRP:BEIN SPORT
-https://doball24.com/player/live.php?ch=dooball66-bein1.m3u8
-
-#EXTINF:0,BEIN SPORT 1/1 TH
-#EXTGRP:BEIN SPORT
-http://dmtn.tv:8080/play/MqUd6h1561AF6Zy0IlHHa0x83HEDryyeLrnZpwyezJ95D7R0Kqd_Ow-P8Um0gHd8soKD4d4hQEKUiXA2iQuzXjpBuCUgpuvSHiv-mw3dVbPWwzmaTUcMItYKtEOaRxRk
-
-#EXTINF:0,BEIN SPORT 1 EN
-#EXTGRP:BEIN SPORT
-http://aromatv.co:80/live/75544390pw/85532100hk/25904.m3u8
-
-#EXTINF:0,BEIN SPORT 2 TH
-#EXTGRP:BEIN SPORT
-http://203.159.95.172:8081/live/bein02/chunks.m3u8
+#EXTINF:0,BEIN SPORT 1
+#EXTGRP:True Sport
+https://cdn.googlecdnforstreaming.live/dbf789/bein1/chunks.m3u8
 
 #EXTINF:0,BEIN SPORT 2 EN
-#EXTGRP:BEIN SPORT
-http://aromatv.co:80/live/75544390pw/85532100hk/166211.m3u8
+#EXTGRP:True Sport
+https://cdn.googlecdnforstreaming.live/dbf789/bein2/chunks.m3u8
 
 #EXTINF:0,BEIN SPORT 3 EN
-#EXTGRP:BEIN SPORT
-http://aromatv.co:80/live/75544390pw/85532100hk/166212.m3u8
+#EXTGRP:True Sport
+https://cdn.googlecdnforstreaming.live/dbf789/bein3/chunks.m3u8
+
+#EXTINF:0,True Sport1
+#EXTGRP:True Sport
+https://cdn.googlecdnforstreaming.live/dbf789/tsp1/chunks.m3u8
+
+#EXTINF:0,True Sport2
+#EXTGRP:True Sport
+https://cdn.googlecdnforstreaming.live/dbf789/tsp2/chunks.m3u8
+
+#EXTINF:0,True Sport3
+#EXTGRP:True Sport
+https://cdn.googlecdnforstreaming.live/dbf789/tsp3/chunks.m3u8
+
+#EXTINF:0,True Sport5
+#EXTGRP:True Sport
+https://cdn.googlecdnforstreaming.live/dbf789/tsp5/chunks.m3u8
+#EXTINF:0,True Sport5/1
+#EXTGRP:True Sport
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r2/2sport5_480p/playlist.m3u8
+
+#EXTINF:0,True Sport7
+#EXTGRP:True Sport
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r2/2sport7_480p/playlist.m3u8
+#EXTINF:0,True Sport7/1
+#EXTGRP:True Sport
+https://cdn.googlecdnforstreaming.live/dbf789/tsp7/chunks.m3u8
 
 
 
 
-#EXTINF:0,ESPN 1
-#EXTGRP:ESPN
-https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/foxsports1nl/playlist.m3u8
-#EXTINF:0,ESPN 2
-#EXTGRP:ESPN
-https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/foxsports2nl/playlist.m3u8
-#EXTINF:0,ESPN 3
-#EXTGRP:ESPN
-https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/foxsports3nl/playlist.m3u8
-#EXTINF:0,ESPN 4
-#EXTGRP:ESPN
-https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/foxsports4nl/playlist.m3u8
+#EXTINF:-1,AIS 1
+#EXTGRP:AIS
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r6/baygonhero1/playlist.m3u8
+#EXTINF:-1,AIS 2
+#EXTGRP:AIS
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r6/baygonhero2/playlist.m3u8
+#EXTINF:-1,AIS 3
+#EXTGRP:AIS
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r6/baygonhero3/playlist.m3u8
+#EXTINF:-1,AIS 4
+#EXTGRP:AIS
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r6/baygonhero4/playlist.m3u8
+#EXTINF:-1,AIS 5
+#EXTGRP:AIS
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r6/baygonhero5/playlist.m3u8
+#EXTINF:-1,AIS 6
+#EXTGRP:AIS
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r6/baygonhero6/playlist.m3u8
+#EXTINF:-1,AIS 7
+#EXTGRP:AIS
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r6/baygonhero7/playlist.m3u8
+#EXTINF:-1,AIS 8
+#EXTGRP:AIS
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r6/baygonhero8/playlist.m3u8
+#EXTINF:-1,AIS 9
+#EXTGRP:AIS
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r6/baygonhero9/playlist.m3u8
+#EXTINF:-1,AIS 10
+#EXTGRP:AIS
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r6/baygonhero10/playlist.m3u8
+#EXTINF:-1,AIS 11
+#EXTGRP:AIS
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r6/baygonhero11/playlist.m3u8
+#EXTINF:-1,AIS 12
+#EXTGRP:AIS
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r6/baygonhero12/playlist.m3u8
+#EXTINF:-1,AIS 13
+#EXTGRP:AIS
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r6/baygonhero13/playlist.m3u8
+#EXTINF:-1,AIS 14
+#EXTGRP:AIS
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r6/baygonhero14/playlist.m3u8
+#EXTINF:-1,AIS 15
+#EXTGRP:AIS
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r6/baygonhero15/playlist.m3u8
+#EXTINF:-1,AIS 16
+#EXTGRP:AIS
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r6/baygonhero16/playlist.m3u8
+#EXTINF:-1,AIS 17
+#EXTGRP:AIS
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r6/baygonhero17/playlist.m3u8
+#EXTINF:-1,AIS 18
+#EXTGRP:AIS
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r6/baygonhero18/playlist.m3u8
+
 
 
 
@@ -633,7 +710,6 @@ http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115615
 #EXTINF:0,Astro Super Sport 1/2
 #EXTGRP:Astro SuperSport
 https://rr5---sn-w5nuxa-c33lk-34.googleuservideo.com/doofootball_r4/astrosupersport/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyMiA1OjIxOjI4IEFNJmhhc2hfdmFsdWU9Y2M0VUE5ejgyMGdiNnVCUFBRZXJmdz09JnZhbGlkbWludXRlcz0xJnN0cm1fbGVuPTMwJmlkPTgwNDYxMg==
-
 #EXTINF:0,Astro Super Sport 1/3
 #EXTGRP:Astro SuperSport
 https://ip-panel.com:443/play/lM_YIIFhHR4TDktapZWZERvpYrjEKF3xbqtpEcB_ZtAHwpDAjKbZ_bBkjqYsl25sUGBw73UobZ8pqlpwdgHA5PzQ0kcvMk0GRegJgEeCditFUhuZ_VtV6K7boKnTzU4G9DuzqelNmoBlJ_1RmAuvCtlQ-CpWga1qDNyW-ta5Cko?ext=.ts
@@ -641,7 +717,6 @@ https://ip-panel.com:443/play/lM_YIIFhHR4TDktapZWZERvpYrjEKF3xbqtpEcB_ZtAHwpDAjK
 #EXTINF:0,Astro Super Sport 2/1
 #EXTGRP:Astro SuperSport
 https://ip-panel.com:443/play/lM_YIIFhHR4TDktapZWZERvpYrjEKF3xbqtpEcB_ZtAHwpDAjKbZ_bBkjqYsl25sUGBw73UobZ8pqlpwdgHA5PzQ0kcvMk0GRegJgEeCdisQoJZ_YiKXBF0_b3xQbOqCDKj-DD03DL51takF2Wks2D7jqg88kdt84VTVpcKF0XQ?ext=.ts
-
 
 
 
@@ -727,9 +802,6 @@ http://portal.geniptv.com:8080/JDXMbWujQK/tXjUHFqL2D/101915
 #EXTINF:0,Now Premier Sports 8 HD HK VIP SPORTS
 #EXTGRP:Now Sports
 http://portal.geniptv.com:8080/JDXMbWujQK/tXjUHFqL2D/101914
-
-
-
 
 
 
@@ -932,6 +1004,23 @@ https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/btsportespn/
 
 
 
+#EXTINF:-1,BEIN 1 ENG
+#EXTGRP:BEIN
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/bein1englisharab/playlist.m3u8
+#EXTINF:-1,BEIN 2 ENG
+#EXTGRP:BEIN
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/bein2englisharab/playlist.m3u8
+#EXTINF:-1,BEIN 3 ENG
+#EXTGRP:BEIN
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/bein3englisharab/playlist.m3u8
+
+
+#EXTINF:-1,SUPERSPORT FOOTBALL
+#EXTGRP:Sport
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/supersportfootball/playlist.m3u8
+#EXTINF:-1,LIVERPOOL
+#EXTGRP:Sport
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/lfctv/playlist.m3u8
 
 
 
