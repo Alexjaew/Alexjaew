@@ -11,6 +11,9 @@ https://livefta.malimarcdn.com/ftaedge00/nat.sdp/playlist.m3u8
 #EXTINF:0,CH5 HD
 #EXTGRP:DigitalTV
 https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r2/5hd_720p/chunks.m3u8
+#EXTINF:0,CH5 TGN
+#EXTGRP:DigitalTV
+http://110.170.117.27:1935/apptv5hd1live/tgn/playlist.m3u8
 
 #EXTINF:0,CH7 HD
 #EXTGRP:DigitalTV
@@ -96,13 +99,21 @@ https://cdn6.goprimetime.info/feed/202205171929/TPTV/index.m3u8
 #EXTGRP:DigitalTV
 https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r2/tsports_480p/playlist.m3u8
 
+#EXTINF:0,Voice TV
+#EXTGRP:DigitalTV
+https://rr5---sn-w5nuxa-c33lk-21.googleuservideo.com/doofootball_r2/voice_480p/playlist.m3u8
 
 
 
 
 
+#EXTINF:0,TRUE FIME1
+#EXTGRP:Movie
+https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r7/true-filmhd/playlist.m3u8#https://streaming.livescorethai.net/iptv/hd-tfilm.stream/playlist.m3u8
 
-
+#EXTINF:0,TRUE FIME2
+#EXTGRP:Movie
+https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r7/true-filmhd2/playlist.m3u8#https://doball24.com/player/live.php?ch=hd-tfilm2
 
 #EXTINF:0,TRUE MOVIE HITS
 #EXTGRP:Movie
@@ -467,9 +478,13 @@ http://49.0.87.24:1936/HDDoonee/Doonee/playlist.m3u8
 #EXTGRP:Documentary
 https://dai.google.com/linear/hls/event/HJAq3zH1SUy_B6fb1j80_Q/master.m3u8
 
-#EXTINF:0,MySci TV TH
+#EXTINF:0,MySci TV
 #EXTGRP:Documentary
 https://cdn6.goprimetime.info/feed/202205171929/LC37/playlist.m3u8
+
+#EXTINF:0,MySci TV/1
+#EXTGRP:Documentary
+https://cdn6.goprimetime.info/feed/202205171929/LC37/index.m3u8
 
 #EXTINF:0,Wild
 #EXTGRP:Documentary
@@ -519,6 +534,10 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 #EXTGRP:Documentary
 http://freelive2.inwstream.com:1935/freelive-edge/mixtv.stream/playlist.m3u8
 
+#EXTINF:0,SMITHSONIAN
+#EXTGRP:Documentary
+https://cdn6.goprimetime.info/feed/202205171929/LC43/index.m3u8
+
 
 
 
@@ -538,6 +557,10 @@ http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115759
 #EXTINF:0,True Premier Football HD 1/4
 #EXTGRP:True Sport
 http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115760
+#EXTINF:0,True Premier Football HD 1/5
+#EXTGRP:True Sport
+https://api-soccer.iamtheme.com/streaming/ZXlKcGRpSTZJbnBhVDI5WFFVaENiR0ppU0c0d1VYZEdZMHMwTjBFOVBTSXNJblpoYkhWbElqb2laMGxwUzJZM1RGbHpWVEl3YUdSWlFXWkRaVXBIWEM5a1ZtVnNhVEJDYUhrNE1VZ3pha3cxU1VGVFdHSTFUWHBrYVhNd1ZuTkpObkJWTVc1ck1HbHhhVnd2WWxWcWVrWk1kV1JPTjNwdFUzRXlNWHB5VXpSd1VVeGxUVEJDVkROTE1WTmtWbmhNWVhrNGMwaHBNMDlIZWtWSU5rTlBZMlUwZWpSNGNHTkJVbFJaZEhWd2JVRk5hSEZQY25oWlUzUmpabXhqZVU5cmNuQmlUbkJMU0hkeVQyRjRURkJQYkVOeFRYTkpZMlV5TjBZek9Vb3pVMGxJZDNoQ1dqbHRXa2hJVFRSbGFWVkROWGhwU3pGdlhDOTNUR1UzUm5GVloxUlBOVlZaZDNWV05XdFRaRmRUU1RWWlVWZFdTRzlYV2xwTGFUUnpPR05vZFZFNWVsZzFVRFZoU20xMmExSlNlSEZCUmtKa2VrcHRZWFI1TkRWS2ExRk9NakV5Umt0VVNVZzFkRGt3V2t0RVNtdHhkWFExVFRROUlpd2liV0ZqSWpvaU1HSTVOVE0xWW1ZNFl6QXlaRGt4TW1FeU16UXpNamxsTmpZelltUmxNRFkxWlRVeU1USTBPV0l4TWpCaE5URmlNV1UwWkdaa09HWmlNR0l4WVRCa015Sjk=
+
 
 
 #EXTINF:0,True Premier Football HD 2
@@ -549,7 +572,9 @@ http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115508
 #EXTINF:0,True Premier Football HD 2/2
 #EXTGRP:True Sport
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115509
-
+#EXTINF:0,True Premier Football HD 2/3
+#EXTGRP:True Sport
+http://w.nasvpn.xyz:8080/live/best/best/16397.m3u8
 
 
 #EXTINF:0,True Premier Football HD 3
@@ -702,6 +727,44 @@ https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r6/baygonhero17
 #EXTINF:-1,AIS 18
 #EXTGRP:AIS
 https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r6/baygonhero18/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1,WorWORLD CUP1
+#EXTGRP:WorWORLD CUP
+http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=269457&extension=ts&play_token
+#EXTINF:-1,WorWORLD CUP2
+#EXTGRP:WorWORLD CUP
+http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115615&extension=ts&play_token
+#EXTINF:-1,WorWORLD CUP3
+#EXTGRP:WorWORLD CUP
+http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=114242&extension=ts&play_token
+#EXTINF:-1,WorWORLD CUP4
+#EXTGRP:WorWORLD CUP
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1049176
+#EXTINF:-1,WorWORLD CUP5
+#EXTGRP:WorWORLD CUP
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1049172
+#EXTINF:-1,WorWORLD CUP6
+#EXTGRP:WorWORLD CUP
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1049168
+#EXTINF:-1,WorWORLD CUP7
+#EXTGRP:WorWORLD CUP
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1049161
+#EXTINF:-1,WorWORLD CUP8
+#EXTGRP:WorWORLD CUP
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1050774
+#EXTINF:-1,WorWORLD CUP9
+#EXTGRP:WorWORLD CUP
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1050761
+#EXTINF:-1,WorWORLD CUP10
+#EXTGRP:WorWORLD CUP
+http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=697229347
+#EXTINF:-1,WorWORLD CUP11
+#EXTGRP:WorWORLD CUP
+https://rr5---sn-w5nuxa-c33lk-21.googleuservideo.com/doofootball_r4/digisport1romania/chunks.m3u8
 
 
 
