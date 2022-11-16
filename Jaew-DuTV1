@@ -283,6 +283,10 @@ https://live1.thaitvstream.com/play/phetchabuntv/index.m3u8
 #EXTGRP:Movie
 https://live.thaitvstream.com/play/thainews/index.m3u8
 
+#EXTINF:0,SIAM NEWS
+#EXTGRP:Movie
+https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
+
 #EXTINF:0,FW MOV
 #EXTGRP:Movie
 https://freelive.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/chunks.m3u8
@@ -318,6 +322,16 @@ http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
 #EXTINF:0,PHETCHABUN TV
 #EXTGRP:Movie
 https://live1.thaitvstream.com/play/phetchabuntv/index.m3u8
+
+#EXTINF:0,CELESTIAL MOVIES
+#EXTGRP:Movie
+http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115635&extension=ts&play_token
+
+#EXTINF:0,CINE LIFE
+#EXTGRP:Movie
+https://magselect-stirr.amagi.tv/playlist.m3u8
+
+
 
 
 
@@ -398,6 +412,7 @@ https://4ea7abcc97144832b81dc50c6e8d6330.mediatailor.us-east-1.amazonaws.com/v1/
 
 
 
+
 #EXTINF:0,History
 #EXTGRP:Documentary
 https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/hd-history/playlist.m3u8
@@ -466,6 +481,10 @@ https://cdn6.goprimetime.info/feed/202205171929/LC8/index.m3u8
 #EXTGRP:Documentary
 https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r8/outdoor/chunks.m3u8
 
+#EXTINF:0,OutSide+
+#EXTGRP:Documentary
+https://dai.google.com/linear/hls/event/HJAq3zH1SUy_B6fb1j80_Q/master.m3u8
+
 #EXTINF:0,JKN 18
 #EXTGRP:Documentary
 https://5f27aa1f6ef91.streamlock.net/jkncnbc/myStream/chunklist_w1477849682.m3u8
@@ -473,10 +492,6 @@ https://5f27aa1f6ef91.streamlock.net/jkncnbc/myStream/chunklist_w1477849682.m3u8
 #EXTINF:0,DOONEE
 #EXTGRP:Documentary
 http://49.0.87.24:1936/HDDoonee/Doonee/playlist.m3u8
-
-#EXTINF:0,OutSide+
-#EXTGRP:Documentary
-https://dai.google.com/linear/hls/event/HJAq3zH1SUy_B6fb1j80_Q/master.m3u8
 
 #EXTINF:0,MySci TV
 #EXTGRP:Documentary
@@ -510,14 +525,6 @@ http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 #EXTGRP:Documentary
 https://d1vp12yk4i8ou5.cloudfront.net/playlist720p.m3u8#https://d1vp12yk4i8ou5.cloudfront.net/playlist.m3u8
 
-#EXTINF:0,Hunt Channel
-#EXTGRP:Documentary
-https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/mono.m3u8
-
-#EXTINF:0,Way Point
-#EXTGRP:Documentary
-https://dai.google.com/linear/hls/event/im0MqOKRTHy9nVa1sirQSg/master.m3u8
-
 #EXTINF:0,Nationnal_geographic
 #EXTGRP:Documentary
 https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/natgeo/playlist.m3u8
@@ -530,10 +537,6 @@ https://live1.thaitvstream.com/play/medianews/index.m3u8
 #EXTGRP:Documentary
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 
-#EXTINF:0,Fram TV
-#EXTGRP:Documentary
-http://freelive2.inwstream.com:1935/freelive-edge/mixtv.stream/playlist.m3u8
-
 #EXTINF:0,SMITHSONIAN
 #EXTGRP:Documentary
 https://cdn6.goprimetime.info/feed/202205171929/LC43/index.m3u8
@@ -544,20 +547,17 @@ https://cdn6.goprimetime.info/feed/202205171929/LC43/index.m3u8
 
 #EXTINF:0,True Premier Football HD 1
 #EXTGRP:True Sport
-https://raw.githubusercontent.com/Playidturl1/playlist/main/sportch/tpf1b.m3u8
+http://w.nasvpn.xyz:8080/live/best/best/16395.m3u8
 #EXTINF:0,True Premier Football HD 1/1
 #EXTGRP:True Sport
-http://w.nasvpn.xyz:8080/live/best/best/16395.m3u8
+https://raw.githubusercontent.com/Playidturl1/playlist/main/sportch/tpf1b.m3u8
 #EXTINF:0,True Premier Football HD 1/2
 #EXTGRP:True Sport
-https://cdn.googlecdnforstreaming.live/dbf789/tpf1_480/chunks.m3u8
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115759
 #EXTINF:0,True Premier Football HD 1/3
 #EXTGRP:True Sport
-http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115759
-#EXTINF:0,True Premier Football HD 1/4
-#EXTGRP:True Sport
 http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115760
-#EXTINF:0,True Premier Football HD 1/5
+#EXTINF:0,True Premier Football HD 1/4
 #EXTGRP:True Sport
 https://api-soccer.iamtheme.com/streaming/ZXlKcGRpSTZJbnBhVDI5WFFVaENiR0ppU0c0d1VYZEdZMHMwTjBFOVBTSXNJblpoYkhWbElqb2laMGxwUzJZM1RGbHpWVEl3YUdSWlFXWkRaVXBIWEM5a1ZtVnNhVEJDYUhrNE1VZ3pha3cxU1VGVFdHSTFUWHBrYVhNd1ZuTkpObkJWTVc1ck1HbHhhVnd2WWxWcWVrWk1kV1JPTjNwdFUzRXlNWHB5VXpSd1VVeGxUVEJDVkROTE1WTmtWbmhNWVhrNGMwaHBNMDlIZWtWSU5rTlBZMlUwZWpSNGNHTkJVbFJaZEhWd2JVRk5hSEZQY25oWlUzUmpabXhqZVU5cmNuQmlUbkJMU0hkeVQyRjRURkJQYkVOeFRYTkpZMlV5TjBZek9Vb3pVMGxJZDNoQ1dqbHRXa2hJVFRSbGFWVkROWGhwU3pGdlhDOTNUR1UzUm5GVloxUlBOVlZaZDNWV05XdFRaRmRUU1RWWlVWZFdTRzlYV2xwTGFUUnpPR05vZFZFNWVsZzFVRFZoU20xMmExSlNlSEZCUmtKa2VrcHRZWFI1TkRWS2ExRk9NakV5Umt0VVNVZzFkRGt3V2t0RVNtdHhkWFExVFRROUlpd2liV0ZqSWpvaU1HSTVOVE0xWW1ZNFl6QXlaRGt4TW1FeU16UXpNamxsTmpZelltUmxNRFkxWlRVeU1USTBPV0l4TWpCaE5URmlNV1UwWkdaa09HWmlNR0l4WVRCa015Sjk=
 
