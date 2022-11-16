@@ -42,6 +42,9 @@ http://news1.live14.com/stream/news1_hi.m3u8
 #EXTINF:0,Voice TV
 #EXTGRP:DigitalTV
 https://edge6a.v2h-cdn.com/appt3/WOWSH.stream_720p/chunklist.m3u8
+#EXTINF:0,Voice TV/1
+#EXTGRP:DigitalTV
+https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r2/voice_480p/chunks.m3u8
 
 #EXTINF:0,Nation TV
 #EXTGRP:DigitalTV
@@ -540,6 +543,8 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 #EXTINF:0,SMITHSONIAN
 #EXTGRP:Documentary
 https://cdn6.goprimetime.info/feed/202205171929/LC43/index.m3u8
+
+
 
 
 
