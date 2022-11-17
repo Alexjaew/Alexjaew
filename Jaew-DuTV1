@@ -208,7 +208,7 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 #EXTINF:0,Sony Pix
 #EXTGRP:Movie
-http://webo.asia:80/play/live.php?mac=00:1A:79:11:84:FB&stream=397979&extension=ts&play_token=9MLRmWbEJy
+https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_pix_hd.smil/manifest.mpd
 
 #EXTINF:0,PARAMOUNT
 #EXTGRP:Movie
