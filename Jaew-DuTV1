@@ -631,14 +631,23 @@ https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r2/trueidstatio
 #EXTINF:0,BEIN SPORT 1
 #EXTGRP:True Sport
 https://cdn.googlecdnforstreaming.live/dbf789/bein1/chunks.m3u8
+#EXTINF:0,BEIN SPORT 1/1
+#EXTGRP:True Sport
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115807
 
 #EXTINF:0,BEIN SPORT 2
 #EXTGRP:True Sport
 https://cdn.googlecdnforstreaming.live/dbf789/bein2/chunks.m3u8
+#EXTINF:0,BEIN SPORT 2/1
+#EXTGRP:True Sport
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115809
 
 #EXTINF:0,BEIN SPORT 3
 #EXTGRP:True Sport
 https://cdn.googlecdnforstreaming.live/dbf789/bein3/chunks.m3u8
+#EXTINF:0,BEIN SPORT 3/2
+#EXTGRP:True Sport
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115601
 
 #EXTINF:-1,BEIN 1 ENG
 #EXTGRP:True Sport
@@ -782,6 +791,9 @@ https://rr5---sn-w5nuxa-c33lk-21.googleuservideo.com/doofootball_r4/digisport1ro
 #EXTINF:0,Astro Super Sport 1
 #EXTGRP:Astro SuperSport
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115615
+#EXTINF:0,Astro Super Sport 1/1
+#EXTGRP:Astro SuperSport
+https://rr5---sn-w5nuxa-c33lk-21.googleuservideo.com/doofootball_r4/astrosupersport/playlist.m3u8
 
 #EXTINF:0,Astro Super Sport 1/2
 #EXTGRP:Astro SuperSport
@@ -797,6 +809,9 @@ https://ip-panel.com:443/play/lM_YIIFhHR4TDktapZWZERvpYrjEKF3xbqtpEcB_ZtAHwpDAjK
 #EXTINF:0,Astro Super Sport 3/1
 #EXTGRP:Astro SuperSport
 https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/supersport3al/playlist.m3u8
+#EXTINF:0,Astro Super Sport 3/2
+#EXTGRP:Astro SuperSport
+https://rr5---sn-w5nuxa-c33lk-21.googleuservideo.com/doofootball_r4/astrosupersport3/chunks.m3u8
 
 #EXTINF:0,Astro Super Sport 4/1
 #EXTGRP:Astro SuperSport
