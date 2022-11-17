@@ -542,7 +542,7 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 
 #EXTINF:0,SMITHSONIAN
 #EXTGRP:Documentary
-https://cdn6.goprimetime.info/feed/202205171929/LC43/index.m3u8
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 
 
 
@@ -565,7 +565,9 @@ http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115760
 #EXTINF:0,True Premier Football HD 1/4
 #EXTGRP:True Sport
 https://api-soccer.iamtheme.com/streaming/ZXlKcGRpSTZJbnBhVDI5WFFVaENiR0ppU0c0d1VYZEdZMHMwTjBFOVBTSXNJblpoYkhWbElqb2laMGxwUzJZM1RGbHpWVEl3YUdSWlFXWkRaVXBIWEM5a1ZtVnNhVEJDYUhrNE1VZ3pha3cxU1VGVFdHSTFUWHBrYVhNd1ZuTkpObkJWTVc1ck1HbHhhVnd2WWxWcWVrWk1kV1JPTjNwdFUzRXlNWHB5VXpSd1VVeGxUVEJDVkROTE1WTmtWbmhNWVhrNGMwaHBNMDlIZWtWSU5rTlBZMlUwZWpSNGNHTkJVbFJaZEhWd2JVRk5hSEZQY25oWlUzUmpabXhqZVU5cmNuQmlUbkJMU0hkeVQyRjRURkJQYkVOeFRYTkpZMlV5TjBZek9Vb3pVMGxJZDNoQ1dqbHRXa2hJVFRSbGFWVkROWGhwU3pGdlhDOTNUR1UzUm5GVloxUlBOVlZaZDNWV05XdFRaRmRUU1RWWlVWZFdTRzlYV2xwTGFUUnpPR05vZFZFNWVsZzFVRFZoU20xMmExSlNlSEZCUmtKa2VrcHRZWFI1TkRWS2ExRk9NakV5Umt0VVNVZzFkRGt3V2t0RVNtdHhkWFExVFRROUlpd2liV0ZqSWpvaU1HSTVOVE0xWW1ZNFl6QXlaRGt4TW1FeU16UXpNamxsTmpZelltUmxNRFkxWlRVeU1USTBPV0l4TWpCaE5URmlNV1UwWkdaa09HWmlNR0l4WVRCa015Sjk=
-
+#EXTINF:0,True Premier Football HD 1/5
+#EXTGRP:True Sport
+https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 
 
 #EXTINF:0,True Premier Football HD 2
