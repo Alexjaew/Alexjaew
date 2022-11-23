@@ -18,6 +18,9 @@ http://110.170.117.27:1935/apptv5hd1live/tgn/playlist.m3u8
 #EXTINF:0,CH7 HD
 #EXTGRP:DigitalTV
 https://live-cdn-hwc.ch7.com/livech7hd/HD.m3u8
+#EXTINF:0,CH7 HD/1
+#EXTGRP:DigitalTV
+https://www.livedoomovies.com:4431/02_7HD_720p/chunklist.m3u8
 
 #EXTINF:0,CH8
 #EXTGRP:DigitalTV
@@ -40,9 +43,6 @@ https://live.topnews.co.th/hls/topnews.m3u8
 http://news1.live14.com/stream/news1_hi.m3u8
 
 #EXTINF:0,Voice TV
-#EXTGRP:DigitalTV
-https://edge6a.v2h-cdn.com/appt3/WOWSH.stream_720p/chunklist.m3u8
-#EXTINF:0,Voice TV/1
 #EXTGRP:DigitalTV
 https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r2/voice_480p/chunks.m3u8
 
@@ -302,7 +302,7 @@ https://26t4.short.gy/popart.m3u8
 
 #EXTINF:0,True4You
 #EXTGRP:Movie
-https://freelive.inwstream.com:1936/freelive-edge/true4u/playlist.m3u8
+https://www.livedoomovies.com:4431/02_TRUE4U_480p/chunklist.m3u8
 
 #EXTINF:0,มังกร
 #EXTGRP:Movie
