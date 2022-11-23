@@ -34,6 +34,10 @@ https://cdn6.goprimetime.info/feed/202205171929/chmcothd/index.m3u8
 #EXTGRP:DigitalTV
 https://freelive2.inwstream.com:1936/freelive-edge/pptvhd/chunks.m3u8
 
+#EXTINF:0,True4You
+#EXTGRP:DigitalTV
+https://www.livedoomovies.com:4431/02_TRUE4U_480p/chunklist.m3u8
+
 #EXTINF:0,TOPNEWS
 #EXTGRP:DigitalTV
 https://live.topnews.co.th/hls/topnews.m3u8
@@ -100,11 +104,12 @@ https://cdn6.goprimetime.info/feed/202205171929/TPTV/index.m3u8
 
 #EXTINF:0,T SPORT 7
 #EXTGRP:DigitalTV
-https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r2/tsports_480p/playlist.m3u8
+https://www.livedoomovies.com:4431/02_T_Sports_480p/chunklist.m3u8
 
-#EXTINF:0,Voice TV
+#EXTINF:0,JKN 18
 #EXTGRP:DigitalTV
-https://rr5---sn-w5nuxa-c33lk-21.googleuservideo.com/doofootball_r2/voice_480p/playlist.m3u8
+https://www.livedoomovies.com:4431/02_JKN_480p/chunklist.m3u8
+
 
 
 
@@ -300,10 +305,6 @@ https://freelive.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/chunks.m3
 #EXTGRP:Movie
 https://26t4.short.gy/popart.m3u8
 
-#EXTINF:0,True4You
-#EXTGRP:Movie
-https://www.livedoomovies.com:4431/02_TRUE4U_480p/chunklist.m3u8
-
 #EXTINF:0,มังกร
 #EXTGRP:Movie
 http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
@@ -489,10 +490,6 @@ https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r8/outdoor/chun
 #EXTINF:0,OutSide+
 #EXTGRP:Documentary
 https://dai.google.com/linear/hls/event/HJAq3zH1SUy_B6fb1j80_Q/master.m3u8
-
-#EXTINF:0,JKN 18
-#EXTGRP:Documentary
-https://5f27aa1f6ef91.streamlock.net/jkncnbc/myStream/chunklist_w1477849682.m3u8
 
 #EXTINF:0,DOONEE
 #EXTGRP:Documentary
