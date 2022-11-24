@@ -2,18 +2,18 @@
 
 #EXTINF:0,3 HD
 #EXTGRP:DigitalTV
-https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r2/3hd_720p/chunks.m3u8
-
+https://www.livedoomovies.com:4431/02_3HD_720p/chunklist.m3u8
 #EXTINF:0,3/1 HD
 #EXTGRP:DigitalTV
 https://livefta.malimarcdn.com/ftaedge00/nat.sdp/playlist.m3u8
 
-#EXTINF:0,CH5 HD
+#EXTINF:0,CH5
 #EXTGRP:DigitalTV
-https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r2/5hd_720p/chunks.m3u8
+https://www.livedoomovies.com:4431/02_5HD_720p/chunklist.m3u8
 #EXTINF:0,CH5 TGN
 #EXTGRP:DigitalTV
 http://110.170.117.27:1935/apptv5hd1live/tgn/playlist.m3u8
+
 
 #EXTINF:0,CH7 HD
 #EXTGRP:DigitalTV
@@ -25,14 +25,20 @@ https://www.livedoomovies.com:4431/02_7HD_720p/chunklist.m3u8
 #EXTINF:0,CH8
 #EXTGRP:DigitalTV
 https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
+#EXTINF:0,CH8/1
+#EXTGRP:DigitalTV
+https://www.livedoomovies.com:4431/02_8HD_720p/chunklist.m3u8
 
 #EXTINF:0,MCOT 30 HD
 #EXTGRP:DigitalTV
 https://cdn6.goprimetime.info/feed/202205171929/chmcothd/index.m3u8
+#EXTINF:0,MCOT 30 HD/1
+#EXTGRP:DigitalTV
+https://www.livedoomovies.com:4431/02_MCOTHD_720p/chunklist.m3u8
 
 #EXTINF:0,PPTV HD
 #EXTGRP:DigitalTV
-https://freelive2.inwstream.com:1936/freelive-edge/pptvhd/chunks.m3u8
+https://www.livedoomovies.com:4431/02_PPTVHD_720p/chunklist.m3u8
 
 #EXTINF:0,True4You
 #EXTGRP:DigitalTV
@@ -50,9 +56,22 @@ http://news1.live14.com/stream/news1_hi.m3u8
 #EXTGRP:DigitalTV
 https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r2/voice_480p/chunks.m3u8
 
+#EXTINF:0,MONO29/FHD
+#EXTGRP:DigitalTV
+https://live-3.monomax.me/tv/mono29_1080p.m3u8
+#EXTINF:0,MONO29/1
+#EXTGRP:DigitalTV
+https://www.livedoomovies.com:4431/02_MONO_720p/chunklist.m3u8
+#EXTINF:0,MONO29/2 EN
+#EXTGRP:DigitalTV
+https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_1080P/mono29hls_1080TH.stream/playlist.m3u8
+
 #EXTINF:0,Nation TV
 #EXTGRP:DigitalTV
 https://cdn6.goprimetime.info/feed/202205171929/chnation/index.m3u8
+#EXTINF:0,Nation TV/1
+#EXTGRP:DigitalTV
+https://www.livedoomovies.com:4431/02_NATION_480p/chunklist.m3u8
 
 #EXTINF:0,GMM 25
 #EXTGRP:DigitalTV
@@ -64,27 +83,39 @@ https://cdn6.goprimetime.info/feed/202205171929/chthairath/index.m3u8
 
 #EXTINF:0,Thai PBS
 #EXTGRP:DigitalTV
-http://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
+https://www.livedoomovies.com:4431/02_THAIPBS_720p/chunklist.m3u8
 
 #EXTINF:0,Workpoint
 #EXTGRP:DigitalTV
 https://cdn6.goprimetime.info/feed/202205171929/chworkpoint/index.m3u8
+#EXTINF:0,Workpoint/1
+#EXTGRP:DigitalTV
+https://www.livedoomovies.com:4431/02_WORKPOINT_720p/chunklist.m3u8
 
 #EXTINF:0,Amarin TV
 #EXTGRP:DigitalTV
 https://cdn6.goprimetime.info/feed/202205171929/chamarin/index.m3u8
+#EXTINF:0,Amarin TV/1
+#EXTGRP:DigitalTV
+https://www.livedoomovies.com:4431/02_AMARINHD_720p/chunklist.m3u8
 
 #EXTINF:0,One 31 HD
 #EXTGRP:DigitalTV
 https://cdn6.goprimetime.info/feed/202205171929/chonehd/index.m3u8
+#EXTINF:0,One 31 HD/1
+#EXTGRP:DigitalTV
+https://www.livedoomovies.com:4431/02_GMMONE_720p/chunklist.m3u8
 
 #EXTINF:0,NBT
 #EXTGRP:DigitalTV
 https://cdn6.goprimetime.info/feed/202205171929/chnbt3/index.m3u8
+#EXTINF:0,NBT/1
+#EXTGRP:DigitalTV
+https://www.livedoomovies.com:4431/02_NBTSD_480p/chunklist.m3u8
 
 #EXTINF:0,TNN16
 #EXTGRP:DigitalTV
-https://freelive.inwstream.com:1936/freelive-edge/tnn24/playlist.m3u8
+https://www.livedoomovies.com:4431/02_TNN24_480p/chunklist.m3u8
 
 #EXTINF:0,ALTV 4
 #EXTGRP:DigitalTV
